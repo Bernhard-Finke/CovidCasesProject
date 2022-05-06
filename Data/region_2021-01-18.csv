@@ -1,0 +1,3012 @@
+date,areaType,areaCode,areaName,newCasesBySpecimenDate,newDeathsByDeathDate
+"2021-01-17",region,E12000002,North West,510,9
+"2021-01-16",region,E12000002,North West,3452,45
+"2021-01-15",region,E12000002,North West,4382,50
+"2021-01-14",region,E12000002,North West,5071,101
+"2021-01-13",region,E12000002,North West,5362,123
+"2021-01-12",region,E12000002,North West,6341,89
+"2021-01-11",region,E12000002,North West,7384,127
+"2021-01-10",region,E12000002,North West,5102,110
+"2021-01-09",region,E12000002,North West,4937,104
+"2021-01-08",region,E12000002,North West,5622,104
+"2021-01-07",region,E12000002,North West,6039,107
+"2021-01-06",region,E12000002,North West,6577,119
+"2021-01-05",region,E12000002,North West,7558,90
+"2021-01-04",region,E12000002,North West,8204,91
+"2021-01-03",region,E12000002,North West,6556,89
+"2021-01-02",region,E12000002,North West,6896,84
+"2021-01-01",region,E12000002,North West,2850,86
+"2020-12-31",region,E12000002,North West,5200,95
+"2020-12-30",region,E12000002,North West,6423,75
+"2020-12-29",region,E12000002,North West,6626,86
+"2020-12-28",region,E12000002,North West,3596,99
+"2020-12-27",region,E12000002,North West,3520,76
+"2020-12-26",region,E12000002,North West,2651,85
+"2020-12-25",region,E12000002,North West,914,75
+"2020-12-24",region,E12000002,North West,2299,101
+"2020-12-23",region,E12000002,North West,2878,100
+"2020-12-22",region,E12000002,North West,2814,78
+"2020-12-21",region,E12000002,North West,3060,91
+"2020-12-20",region,E12000002,North West,1949,72
+"2020-12-19",region,E12000002,North West,1659,75
+"2020-12-18",region,E12000002,North West,2101,69
+"2020-12-17",region,E12000002,North West,1952,62
+"2020-12-16",region,E12000002,North West,2034,63
+"2020-12-15",region,E12000002,North West,2120,58
+"2020-12-14",region,E12000002,North West,2236,87
+"2020-12-13",region,E12000002,North West,1322,68
+"2020-12-12",region,E12000002,North West,1258,84
+"2020-12-11",region,E12000002,North West,1643,65
+"2020-12-10",region,E12000002,North West,1650,71
+"2020-12-09",region,E12000002,North West,1597,80
+"2020-12-08",region,E12000002,North West,1573,82
+"2020-12-07",region,E12000002,North West,1840,80
+"2020-12-06",region,E12000002,North West,1136,71
+"2020-12-05",region,E12000002,North West,999,68
+"2020-12-04",region,E12000002,North West,1451,78
+"2020-12-03",region,E12000002,North West,1353,85
+"2020-12-02",region,E12000002,North West,1450,74
+"2020-12-01",region,E12000002,North West,1710,83
+"2020-11-30",region,E12000002,North West,1887,83
+"2020-11-29",region,E12000002,North West,1054,79
+"2020-11-28",region,E12000002,North West,1143,70
+"2020-11-27",region,E12000002,North West,1430,79
+"2020-11-26",region,E12000002,North West,1594,75
+"2020-11-25",region,E12000002,North West,1832,106
+"2020-11-24",region,E12000002,North West,1860,89
+"2020-11-23",region,E12000002,North West,2183,90
+"2020-11-22",region,E12000002,North West,1384,84
+"2020-11-21",region,E12000002,North West,1379,104
+"2020-11-20",region,E12000002,North West,1986,94
+"2020-11-19",region,E12000002,North West,2179,87
+"2020-11-18",region,E12000002,North West,2580,125
+"2020-11-17",region,E12000002,North West,3046,99
+"2020-11-16",region,E12000002,North West,3370,93
+"2020-11-15",region,E12000002,North West,2118,107
+"2020-11-14",region,E12000002,North West,2379,100
+"2020-11-13",region,E12000002,North West,3230,120
+"2020-11-12",region,E12000002,North West,3426,103
+"2020-11-11",region,E12000002,North West,3916,99
+"2020-11-10",region,E12000002,North West,3901,93
+"2020-11-09",region,E12000002,North West,4723,108
+"2020-11-08",region,E12000002,North West,3177,102
+"2020-11-07",region,E12000002,North West,2810,103
+"2020-11-06",region,E12000002,North West,3855,109
+"2020-11-05",region,E12000002,North West,3915,106
+"2020-11-04",region,E12000002,North West,4088,94
+"2020-11-03",region,E12000002,North West,4439,109
+"2020-11-02",region,E12000002,North West,5929,92
+"2020-11-01",region,E12000002,North West,3067,91
+"2020-10-31",region,E12000002,North West,3143,97
+"2020-10-30",region,E12000002,North West,4371,103
+"2020-10-29",region,E12000002,North West,4547,99
+"2020-10-28",region,E12000002,North West,4648,79
+"2020-10-27",region,E12000002,North West,4945,78
+"2020-10-26",region,E12000002,North West,5549,75
+"2020-10-25",region,E12000002,North West,3283,83
+"2020-10-24",region,E12000002,North West,3392,73
+"2020-10-23",region,E12000002,North West,4483,69
+"2020-10-22",region,E12000002,North West,4781,66
+"2020-10-21",region,E12000002,North West,5548,74
+"2020-10-20",region,E12000002,North West,5597,70
+"2020-10-19",region,E12000002,North West,6166,62
+"2020-10-18",region,E12000002,North West,3210,58
+"2020-10-17",region,E12000002,North West,3591,66
+"2020-10-16",region,E12000002,North West,3896,53
+"2020-10-15",region,E12000002,North West,4170,51
+"2020-10-14",region,E12000002,North West,4478,46
+"2020-10-13",region,E12000002,North West,4284,36
+"2020-10-12",region,E12000002,North West,4760,48
+"2020-10-11",region,E12000002,North West,2933,42
+"2020-10-10",region,E12000002,North West,2941,45
+"2020-10-09",region,E12000002,North West,3738,32
+"2020-10-08",region,E12000002,North West,4278,31
+"2020-10-07",region,E12000002,North West,4362,37
+"2020-10-06",region,E12000002,North West,4536,29
+"2020-10-05",region,E12000002,North West,4337,28
+"2020-10-04",region,E12000002,North West,2901,23
+"2020-10-03",region,E12000002,North West,2948,28
+"2020-10-02",region,E12000002,North West,3423,34
+"2020-10-01",region,E12000002,North West,3598,29
+"2020-09-30",region,E12000002,North West,3627,35
+"2020-09-29",region,E12000002,North West,3168,16
+"2020-09-28",region,E12000002,North West,2994,22
+"2020-09-27",region,E12000002,North West,2243,22
+"2020-09-26",region,E12000002,North West,2020,22
+"2020-09-25",region,E12000002,North West,2218,13
+"2020-09-24",region,E12000002,North West,2211,21
+"2020-09-23",region,E12000002,North West,2159,30
+"2020-09-22",region,E12000002,North West,1971,23
+"2020-09-21",region,E12000002,North West,1477,15
+"2020-09-20",region,E12000002,North West,1562,13
+"2020-09-19",region,E12000002,North West,1510,10
+"2020-09-18",region,E12000002,North West,1397,12
+"2020-09-17",region,E12000002,North West,1405,14
+"2020-09-16",region,E12000002,North West,1448,13
+"2020-09-15",region,E12000002,North West,1067,12
+"2020-09-14",region,E12000002,North West,1051,13
+"2020-09-13",region,E12000002,North West,613,8
+"2020-09-12",region,E12000002,North West,760,16
+"2020-09-11",region,E12000002,North West,876,7
+"2020-09-10",region,E12000002,North West,912,10
+"2020-09-09",region,E12000002,North West,838,18
+"2020-09-08",region,E12000002,North West,858,15
+"2020-09-07",region,E12000002,North West,959,16
+"2020-09-06",region,E12000002,North West,575,14
+"2020-09-05",region,E12000002,North West,541,20
+"2020-09-04",region,E12000002,North West,633,10
+"2020-09-03",region,E12000002,North West,630,7
+"2020-09-02",region,E12000002,North West,665,8
+"2020-09-01",region,E12000002,North West,449,5
+"2020-08-31",region,E12000002,North West,263,9
+"2020-08-30",region,E12000002,North West,255,8
+"2020-08-29",region,E12000002,North West,245,6
+"2020-08-28",region,E12000002,North West,358,9
+"2020-08-27",region,E12000002,North West,287,7
+"2020-08-26",region,E12000002,North West,284,11
+"2020-08-25",region,E12000002,North West,212,13
+"2020-08-24",region,E12000002,North West,251,9
+"2020-08-23",region,E12000002,North West,118,16
+"2020-08-22",region,E12000002,North West,173,13
+"2020-08-21",region,E12000002,North West,210,11
+"2020-08-20",region,E12000002,North West,224,13
+"2020-08-19",region,E12000002,North West,253,13
+"2020-08-18",region,E12000002,North West,191,8
+"2020-08-17",region,E12000002,North West,282,16
+"2020-08-16",region,E12000002,North West,116,12
+"2020-08-15",region,E12000002,North West,156,18
+"2020-08-14",region,E12000002,North West,235,13
+"2020-08-13",region,E12000002,North West,236,8
+"2020-08-12",region,E12000002,North West,275,15
+"2020-08-11",region,E12000002,North West,309,13
+"2020-08-10",region,E12000002,North West,358,9
+"2020-08-09",region,E12000002,North West,159,15
+"2020-08-08",region,E12000002,North West,215,16
+"2020-08-07",region,E12000002,North West,241,14
+"2020-08-06",region,E12000002,North West,279,15
+"2020-08-05",region,E12000002,North West,260,9
+"2020-08-04",region,E12000002,North West,278,8
+"2020-08-03",region,E12000002,North West,299,18
+"2020-08-02",region,E12000002,North West,166,10
+"2020-08-01",region,E12000002,North West,158,5
+"2020-07-31",region,E12000002,North West,178,13
+"2020-07-30",region,E12000002,North West,221,11
+"2020-07-29",region,E12000002,North West,287,15
+"2020-07-28",region,E12000002,North West,198,7
+"2020-07-27",region,E12000002,North West,191,5
+"2020-07-26",region,E12000002,North West,158,15
+"2020-07-25",region,E12000002,North West,137,12
+"2020-07-24",region,E12000002,North West,158,12
+"2020-07-23",region,E12000002,North West,183,10
+"2020-07-22",region,E12000002,North West,208,18
+"2020-07-21",region,E12000002,North West,156,15
+"2020-07-20",region,E12000002,North West,165,12
+"2020-07-19",region,E12000002,North West,93,12
+"2020-07-18",region,E12000002,North West,107,10
+"2020-07-17",region,E12000002,North West,110,17
+"2020-07-16",region,E12000002,North West,150,13
+"2020-07-15",region,E12000002,North West,146,14
+"2020-07-14",region,E12000002,North West,111,17
+"2020-07-13",region,E12000002,North West,105,9
+"2020-07-12",region,E12000002,North West,54,9
+"2020-07-11",region,E12000002,North West,79,14
+"2020-07-10",region,E12000002,North West,87,11
+"2020-07-09",region,E12000002,North West,130,21
+"2020-07-08",region,E12000002,North West,116,14
+"2020-07-07",region,E12000002,North West,94,15
+"2020-07-06",region,E12000002,North West,142,14
+"2020-07-05",region,E12000002,North West,115,11
+"2020-07-04",region,E12000002,North West,71,12
+"2020-07-03",region,E12000002,North West,96,20
+"2020-07-02",region,E12000002,North West,98,13
+"2020-07-01",region,E12000002,North West,112,14
+"2020-06-30",region,E12000002,North West,103,20
+"2020-06-29",region,E12000002,North West,123,15
+"2020-06-28",region,E12000002,North West,95,24
+"2020-06-27",region,E12000002,North West,93,17
+"2020-06-26",region,E12000002,North West,105,19
+"2020-06-25",region,E12000002,North West,127,28
+"2020-06-24",region,E12000002,North West,160,27
+"2020-06-23",region,E12000002,North West,129,33
+"2020-06-22",region,E12000002,North West,158,23
+"2020-06-21",region,E12000002,North West,99,13
+"2020-06-20",region,E12000002,North West,117,24
+"2020-06-19",region,E12000002,North West,164,16
+"2020-06-18",region,E12000002,North West,179,23
+"2020-06-17",region,E12000002,North West,184,24
+"2020-06-16",region,E12000002,North West,212,30
+"2020-06-15",region,E12000002,North West,166,25
+"2020-06-14",region,E12000002,North West,148,30
+"2020-06-13",region,E12000002,North West,128,22
+"2020-06-12",region,E12000002,North West,171,24
+"2020-06-11",region,E12000002,North West,177,28
+"2020-06-10",region,E12000002,North West,224,31
+"2020-06-09",region,E12000002,North West,218,29
+"2020-06-08",region,E12000002,North West,165,40
+"2020-06-07",region,E12000002,North West,128,36
+"2020-06-06",region,E12000002,North West,131,39
+"2020-06-05",region,E12000002,North West,205,35
+"2020-06-04",region,E12000002,North West,240,33
+"2020-06-03",region,E12000002,North West,256,37
+"2020-06-02",region,E12000002,North West,287,41
+"2020-06-01",region,E12000002,North West,261,32
+"2020-05-31",region,E12000002,North West,234,29
+"2020-05-30",region,E12000002,North West,217,35
+"2020-05-29",region,E12000002,North West,303,41
+"2020-05-28",region,E12000002,North West,324,50
+"2020-05-27",region,E12000002,North West,295,39
+"2020-05-26",region,E12000002,North West,309,42
+"2020-05-25",region,E12000002,North West,269,45
+"2020-05-24",region,E12000002,North West,263,45
+"2020-05-23",region,E12000002,North West,290,49
+"2020-05-22",region,E12000002,North West,376,38
+"2020-05-21",region,E12000002,North West,428,50
+"2020-05-20",region,E12000002,North West,498,44
+"2020-05-19",region,E12000002,North West,584,59
+"2020-05-18",region,E12000002,North West,410,50
+"2020-05-17",region,E12000002,North West,301,45
+"2020-05-16",region,E12000002,North West,407,55
+"2020-05-15",region,E12000002,North West,394,67
+"2020-05-14",region,E12000002,North West,429,47
+"2020-05-13",region,E12000002,North West,527,49
+"2020-05-12",region,E12000002,North West,548,71
+"2020-05-11",region,E12000002,North West,531,53
+"2020-05-10",region,E12000002,North West,348,79
+"2020-05-09",region,E12000002,North West,345,56
+"2020-05-08",region,E12000002,North West,484,81
+"2020-05-07",region,E12000002,North West,510,82
+"2020-05-06",region,E12000002,North West,587,76
+"2020-05-05",region,E12000002,North West,576,68
+"2020-05-04",region,E12000002,North West,425,81
+"2020-05-03",region,E12000002,North West,492,83
+"2020-05-02",region,E12000002,North West,414,82
+"2020-05-01",region,E12000002,North West,727,77
+"2020-04-30",region,E12000002,North West,774,94
+"2020-04-29",region,E12000002,North West,796,89
+"2020-04-28",region,E12000002,North West,711,86
+"2020-04-27",region,E12000002,North West,622,93
+"2020-04-26",region,E12000002,North West,428,93
+"2020-04-25",region,E12000002,North West,553,94
+"2020-04-24",region,E12000002,North West,753,108
+"2020-04-23",region,E12000002,North West,864,112
+"2020-04-22",region,E12000002,North West,920,127
+"2020-04-21",region,E12000002,North West,701,106
+"2020-04-20",region,E12000002,North West,674,107
+"2020-04-19",region,E12000002,North West,613,96
+"2020-04-18",region,E12000002,North West,867,135
+"2020-04-17",region,E12000002,North West,580,118
+"2020-04-16",region,E12000002,North West,778,166
+"2020-04-15",region,E12000002,North West,692,129
+"2020-04-14",region,E12000002,North West,633,153
+"2020-04-13",region,E12000002,North West,610,145
+"2020-04-12",region,E12000002,North West,489,155
+"2020-04-11",region,E12000002,North West,610,152
+"2020-04-10",region,E12000002,North West,602,140
+"2020-04-09",region,E12000002,North West,805,129
+"2020-04-08",region,E12000002,North West,853,138
+"2020-04-07",region,E12000002,North West,792,159
+"2020-04-06",region,E12000002,North West,874,107
+"2020-04-05",region,E12000002,North West,628,120
+"2020-04-04",region,E12000002,North West,603,101
+"2020-04-03",region,E12000002,North West,680,111
+"2020-04-02",region,E12000002,North West,678,112
+"2020-04-01",region,E12000002,North West,619,93
+"2020-03-31",region,E12000002,North West,554,63
+"2020-03-30",region,E12000002,North West,507,72
+"2020-03-29",region,E12000002,North West,359,46
+"2020-03-28",region,E12000002,North West,322,38
+"2020-03-27",region,E12000002,North West,333,40
+"2020-03-26",region,E12000002,North West,358,32
+"2020-03-25",region,E12000002,North West,255,23
+"2020-03-24",region,E12000002,North West,255,22
+"2020-03-23",region,E12000002,North West,175,21
+"2020-03-22",region,E12000002,North West,117,12
+"2020-03-21",region,E12000002,North West,115,13
+"2020-03-20",region,E12000002,North West,82,9
+"2020-03-19",region,E12000002,North West,98,10
+"2020-03-18",region,E12000002,North West,84,7
+"2020-03-17",region,E12000002,North West,55,4
+"2020-03-16",region,E12000002,North West,56,2
+"2020-03-15",region,E12000002,North West,24,4
+"2020-03-14",region,E12000002,North West,25,1
+"2020-03-13",region,E12000002,North West,43,3
+"2020-03-12",region,E12000002,North West,40,0
+"2020-03-11",region,E12000002,North West,17,1
+"2020-03-10",region,E12000002,North West,15,0
+"2020-03-09",region,E12000002,North West,7,0
+"2020-03-08",region,E12000002,North West,5,1
+"2020-03-07",region,E12000002,North West,9,
+"2020-03-06",region,E12000002,North West,2,
+"2020-03-05",region,E12000002,North West,10,
+"2020-03-04",region,E12000002,North West,2,
+"2020-03-03",region,E12000002,North West,7,
+"2020-03-02",region,E12000002,North West,6,
+"2020-03-01",region,E12000002,North West,7,
+"2020-02-29",region,E12000002,North West,0,
+"2020-02-28",region,E12000002,North West,1,
+"2021-01-17",region,E12000003,Yorkshire and The Humber,211,9
+"2021-01-16",region,E12000003,Yorkshire and The Humber,1189,32
+"2021-01-15",region,E12000003,Yorkshire and The Humber,1748,45
+"2021-01-14",region,E12000003,Yorkshire and The Humber,1150,38
+"2021-01-13",region,E12000003,Yorkshire and The Humber,2209,64
+"2021-01-12",region,E12000003,Yorkshire and The Humber,2507,59
+"2021-01-11",region,E12000003,Yorkshire and The Humber,2843,54
+"2021-01-10",region,E12000003,Yorkshire and The Humber,1746,66
+"2021-01-09",region,E12000003,Yorkshire and The Humber,1847,39
+"2021-01-08",region,E12000003,Yorkshire and The Humber,2092,52
+"2021-01-07",region,E12000003,Yorkshire and The Humber,2441,61
+"2021-01-06",region,E12000003,Yorkshire and The Humber,2548,66
+"2021-01-05",region,E12000003,Yorkshire and The Humber,2773,62
+"2021-01-04",region,E12000003,Yorkshire and The Humber,3447,53
+"2021-01-03",region,E12000003,Yorkshire and The Humber,2425,52
+"2021-01-02",region,E12000003,Yorkshire and The Humber,2736,69
+"2021-01-01",region,E12000003,Yorkshire and The Humber,1479,68
+"2020-12-31",region,E12000003,Yorkshire and The Humber,2164,50
+"2020-12-30",region,E12000003,Yorkshire and The Humber,2945,48
+"2020-12-29",region,E12000003,Yorkshire and The Humber,3222,64
+"2020-12-28",region,E12000003,Yorkshire and The Humber,2122,69
+"2020-12-27",region,E12000003,Yorkshire and The Humber,1958,65
+"2020-12-26",region,E12000003,Yorkshire and The Humber,1660,65
+"2020-12-25",region,E12000003,Yorkshire and The Humber,590,54
+"2020-12-24",region,E12000003,Yorkshire and The Humber,1252,49
+"2020-12-23",region,E12000003,Yorkshire and The Humber,1629,59
+"2020-12-22",region,E12000003,Yorkshire and The Humber,1867,59
+"2020-12-21",region,E12000003,Yorkshire and The Humber,1981,62
+"2020-12-20",region,E12000003,Yorkshire and The Humber,1414,53
+"2020-12-19",region,E12000003,Yorkshire and The Humber,1020,43
+"2020-12-18",region,E12000003,Yorkshire and The Humber,1450,70
+"2020-12-17",region,E12000003,Yorkshire and The Humber,1173,68
+"2020-12-16",region,E12000003,Yorkshire and The Humber,1227,50
+"2020-12-15",region,E12000003,Yorkshire and The Humber,1492,56
+"2020-12-14",region,E12000003,Yorkshire and The Humber,1719,63
+"2020-12-13",region,E12000003,Yorkshire and The Humber,1028,67
+"2020-12-12",region,E12000003,Yorkshire and The Humber,947,61
+"2020-12-11",region,E12000003,Yorkshire and The Humber,1232,74
+"2020-12-10",region,E12000003,Yorkshire and The Humber,1219,70
+"2020-12-09",region,E12000003,Yorkshire and The Humber,1337,72
+"2020-12-08",region,E12000003,Yorkshire and The Humber,1344,60
+"2020-12-07",region,E12000003,Yorkshire and The Humber,1403,64
+"2020-12-06",region,E12000003,Yorkshire and The Humber,864,70
+"2020-12-05",region,E12000003,Yorkshire and The Humber,876,55
+"2020-12-04",region,E12000003,Yorkshire and The Humber,1050,81
+"2020-12-03",region,E12000003,Yorkshire and The Humber,1151,84
+"2020-12-02",region,E12000003,Yorkshire and The Humber,1340,71
+"2020-12-01",region,E12000003,Yorkshire and The Humber,1485,44
+"2020-11-30",region,E12000003,Yorkshire and The Humber,1705,63
+"2020-11-29",region,E12000003,Yorkshire and The Humber,1038,58
+"2020-11-28",region,E12000003,Yorkshire and The Humber,1090,77
+"2020-11-27",region,E12000003,Yorkshire and The Humber,1317,78
+"2020-11-26",region,E12000003,Yorkshire and The Humber,1395,75
+"2020-11-25",region,E12000003,Yorkshire and The Humber,1603,79
+"2020-11-24",region,E12000003,Yorkshire and The Humber,1758,81
+"2020-11-23",region,E12000003,Yorkshire and The Humber,2058,87
+"2020-11-22",region,E12000003,Yorkshire and The Humber,1350,80
+"2020-11-21",region,E12000003,Yorkshire and The Humber,1366,74
+"2020-11-20",region,E12000003,Yorkshire and The Humber,1936,73
+"2020-11-19",region,E12000003,Yorkshire and The Humber,2089,84
+"2020-11-18",region,E12000003,Yorkshire and The Humber,2581,86
+"2020-11-17",region,E12000003,Yorkshire and The Humber,3058,62
+"2020-11-16",region,E12000003,Yorkshire and The Humber,3277,54
+"2020-11-15",region,E12000003,Yorkshire and The Humber,2094,80
+"2020-11-14",region,E12000003,Yorkshire and The Humber,2503,77
+"2020-11-13",region,E12000003,Yorkshire and The Humber,3076,68
+"2020-11-12",region,E12000003,Yorkshire and The Humber,3201,85
+"2020-11-11",region,E12000003,Yorkshire and The Humber,3703,62
+"2020-11-10",region,E12000003,Yorkshire and The Humber,3771,67
+"2020-11-09",region,E12000003,Yorkshire and The Humber,4490,99
+"2020-11-08",region,E12000003,Yorkshire and The Humber,2891,70
+"2020-11-07",region,E12000003,Yorkshire and The Humber,2833,81
+"2020-11-06",region,E12000003,Yorkshire and The Humber,3634,72
+"2020-11-05",region,E12000003,Yorkshire and The Humber,3586,63
+"2020-11-04",region,E12000003,Yorkshire and The Humber,3505,50
+"2020-11-03",region,E12000003,Yorkshire and The Humber,3949,72
+"2020-11-02",region,E12000003,Yorkshire and The Humber,4667,47
+"2020-11-01",region,E12000003,Yorkshire and The Humber,2820,54
+"2020-10-31",region,E12000003,Yorkshire and The Humber,2628,59
+"2020-10-30",region,E12000003,Yorkshire and The Humber,3466,52
+"2020-10-29",region,E12000003,Yorkshire and The Humber,3460,51
+"2020-10-28",region,E12000003,Yorkshire and The Humber,3579,41
+"2020-10-27",region,E12000003,Yorkshire and The Humber,3580,41
+"2020-10-26",region,E12000003,Yorkshire and The Humber,3849,41
+"2020-10-25",region,E12000003,Yorkshire and The Humber,2149,34
+"2020-10-24",region,E12000003,Yorkshire and The Humber,2249,35
+"2020-10-23",region,E12000003,Yorkshire and The Humber,2976,39
+"2020-10-22",region,E12000003,Yorkshire and The Humber,3301,34
+"2020-10-21",region,E12000003,Yorkshire and The Humber,3492,46
+"2020-10-20",region,E12000003,Yorkshire and The Humber,3566,39
+"2020-10-19",region,E12000003,Yorkshire and The Humber,3830,34
+"2020-10-18",region,E12000003,Yorkshire and The Humber,2219,24
+"2020-10-17",region,E12000003,Yorkshire and The Humber,2366,35
+"2020-10-16",region,E12000003,Yorkshire and The Humber,2432,28
+"2020-10-15",region,E12000003,Yorkshire and The Humber,2488,17
+"2020-10-14",region,E12000003,Yorkshire and The Humber,2774,18
+"2020-10-13",region,E12000003,Yorkshire and The Humber,2530,18
+"2020-10-12",region,E12000003,Yorkshire and The Humber,2743,20
+"2020-10-11",region,E12000003,Yorkshire and The Humber,1622,16
+"2020-10-10",region,E12000003,Yorkshire and The Humber,1916,18
+"2020-10-09",region,E12000003,Yorkshire and The Humber,1868,22
+"2020-10-08",region,E12000003,Yorkshire and The Humber,2425,13
+"2020-10-07",region,E12000003,Yorkshire and The Humber,2657,17
+"2020-10-06",region,E12000003,Yorkshire and The Humber,2413,14
+"2020-10-05",region,E12000003,Yorkshire and The Humber,2265,13
+"2020-10-04",region,E12000003,Yorkshire and The Humber,1677,8
+"2020-10-03",region,E12000003,Yorkshire and The Humber,1657,7
+"2020-10-02",region,E12000003,Yorkshire and The Humber,2202,13
+"2020-10-01",region,E12000003,Yorkshire and The Humber,2132,13
+"2020-09-30",region,E12000003,Yorkshire and The Humber,1786,6
+"2020-09-29",region,E12000003,Yorkshire and The Humber,1381,4
+"2020-09-28",region,E12000003,Yorkshire and The Humber,1449,8
+"2020-09-27",region,E12000003,Yorkshire and The Humber,1022,13
+"2020-09-26",region,E12000003,Yorkshire and The Humber,822,8
+"2020-09-25",region,E12000003,Yorkshire and The Humber,801,7
+"2020-09-24",region,E12000003,Yorkshire and The Humber,922,7
+"2020-09-23",region,E12000003,Yorkshire and The Humber,728,6
+"2020-09-22",region,E12000003,Yorkshire and The Humber,714,11
+"2020-09-21",region,E12000003,Yorkshire and The Humber,615,6
+"2020-09-20",region,E12000003,Yorkshire and The Humber,665,6
+"2020-09-19",region,E12000003,Yorkshire and The Humber,559,5
+"2020-09-18",region,E12000003,Yorkshire and The Humber,557,15
+"2020-09-17",region,E12000003,Yorkshire and The Humber,569,8
+"2020-09-16",region,E12000003,Yorkshire and The Humber,545,9
+"2020-09-15",region,E12000003,Yorkshire and The Humber,419,5
+"2020-09-14",region,E12000003,Yorkshire and The Humber,386,6
+"2020-09-13",region,E12000003,Yorkshire and The Humber,297,6
+"2020-09-12",region,E12000003,Yorkshire and The Humber,314,11
+"2020-09-11",region,E12000003,Yorkshire and The Humber,384,7
+"2020-09-10",region,E12000003,Yorkshire and The Humber,461,6
+"2020-09-09",region,E12000003,Yorkshire and The Humber,393,5
+"2020-09-08",region,E12000003,Yorkshire and The Humber,381,7
+"2020-09-07",region,E12000003,Yorkshire and The Humber,523,6
+"2020-09-06",region,E12000003,Yorkshire and The Humber,305,6
+"2020-09-05",region,E12000003,Yorkshire and The Humber,312,7
+"2020-09-04",region,E12000003,Yorkshire and The Humber,302,8
+"2020-09-03",region,E12000003,Yorkshire and The Humber,335,5
+"2020-09-02",region,E12000003,Yorkshire and The Humber,373,10
+"2020-09-01",region,E12000003,Yorkshire and The Humber,263,6
+"2020-08-31",region,E12000003,Yorkshire and The Humber,192,3
+"2020-08-30",region,E12000003,Yorkshire and The Humber,143,4
+"2020-08-29",region,E12000003,Yorkshire and The Humber,170,7
+"2020-08-28",region,E12000003,Yorkshire and The Humber,161,4
+"2020-08-27",region,E12000003,Yorkshire and The Humber,192,4
+"2020-08-26",region,E12000003,Yorkshire and The Humber,119,5
+"2020-08-25",region,E12000003,Yorkshire and The Humber,135,6
+"2020-08-24",region,E12000003,Yorkshire and The Humber,150,5
+"2020-08-23",region,E12000003,Yorkshire and The Humber,93,5
+"2020-08-22",region,E12000003,Yorkshire and The Humber,89,4
+"2020-08-21",region,E12000003,Yorkshire and The Humber,129,9
+"2020-08-20",region,E12000003,Yorkshire and The Humber,165,6
+"2020-08-19",region,E12000003,Yorkshire and The Humber,140,6
+"2020-08-18",region,E12000003,Yorkshire and The Humber,122,8
+"2020-08-17",region,E12000003,Yorkshire and The Humber,126,6
+"2020-08-16",region,E12000003,Yorkshire and The Humber,79,4
+"2020-08-15",region,E12000003,Yorkshire and The Humber,108,9
+"2020-08-14",region,E12000003,Yorkshire and The Humber,161,4
+"2020-08-13",region,E12000003,Yorkshire and The Humber,179,7
+"2020-08-12",region,E12000003,Yorkshire and The Humber,171,7
+"2020-08-11",region,E12000003,Yorkshire and The Humber,185,9
+"2020-08-10",region,E12000003,Yorkshire and The Humber,221,7
+"2020-08-09",region,E12000003,Yorkshire and The Humber,97,6
+"2020-08-08",region,E12000003,Yorkshire and The Humber,104,3
+"2020-08-07",region,E12000003,Yorkshire and The Humber,120,1
+"2020-08-06",region,E12000003,Yorkshire and The Humber,177,5
+"2020-08-05",region,E12000003,Yorkshire and The Humber,157,6
+"2020-08-04",region,E12000003,Yorkshire and The Humber,146,7
+"2020-08-03",region,E12000003,Yorkshire and The Humber,144,5
+"2020-08-02",region,E12000003,Yorkshire and The Humber,85,6
+"2020-08-01",region,E12000003,Yorkshire and The Humber,81,10
+"2020-07-31",region,E12000003,Yorkshire and The Humber,99,6
+"2020-07-30",region,E12000003,Yorkshire and The Humber,140,4
+"2020-07-29",region,E12000003,Yorkshire and The Humber,163,5
+"2020-07-28",region,E12000003,Yorkshire and The Humber,150,11
+"2020-07-27",region,E12000003,Yorkshire and The Humber,143,4
+"2020-07-26",region,E12000003,Yorkshire and The Humber,91,8
+"2020-07-25",region,E12000003,Yorkshire and The Humber,88,5
+"2020-07-24",region,E12000003,Yorkshire and The Humber,108,9
+"2020-07-23",region,E12000003,Yorkshire and The Humber,106,6
+"2020-07-22",region,E12000003,Yorkshire and The Humber,103,8
+"2020-07-21",region,E12000003,Yorkshire and The Humber,100,10
+"2020-07-20",region,E12000003,Yorkshire and The Humber,115,7
+"2020-07-19",region,E12000003,Yorkshire and The Humber,101,7
+"2020-07-18",region,E12000003,Yorkshire and The Humber,97,7
+"2020-07-17",region,E12000003,Yorkshire and The Humber,100,7
+"2020-07-16",region,E12000003,Yorkshire and The Humber,86,4
+"2020-07-15",region,E12000003,Yorkshire and The Humber,119,7
+"2020-07-14",region,E12000003,Yorkshire and The Humber,133,9
+"2020-07-13",region,E12000003,Yorkshire and The Humber,135,13
+"2020-07-12",region,E12000003,Yorkshire and The Humber,98,7
+"2020-07-11",region,E12000003,Yorkshire and The Humber,85,6
+"2020-07-10",region,E12000003,Yorkshire and The Humber,92,11
+"2020-07-09",region,E12000003,Yorkshire and The Humber,97,6
+"2020-07-08",region,E12000003,Yorkshire and The Humber,126,11
+"2020-07-07",region,E12000003,Yorkshire and The Humber,103,7
+"2020-07-06",region,E12000003,Yorkshire and The Humber,120,6
+"2020-07-05",region,E12000003,Yorkshire and The Humber,90,7
+"2020-07-04",region,E12000003,Yorkshire and The Humber,78,13
+"2020-07-03",region,E12000003,Yorkshire and The Humber,107,8
+"2020-07-02",region,E12000003,Yorkshire and The Humber,104,12
+"2020-07-01",region,E12000003,Yorkshire and The Humber,131,6
+"2020-06-30",region,E12000003,Yorkshire and The Humber,112,17
+"2020-06-29",region,E12000003,Yorkshire and The Humber,133,8
+"2020-06-28",region,E12000003,Yorkshire and The Humber,97,10
+"2020-06-27",region,E12000003,Yorkshire and The Humber,148,9
+"2020-06-26",region,E12000003,Yorkshire and The Humber,152,15
+"2020-06-25",region,E12000003,Yorkshire and The Humber,143,13
+"2020-06-24",region,E12000003,Yorkshire and The Humber,156,23
+"2020-06-23",region,E12000003,Yorkshire and The Humber,172,15
+"2020-06-22",region,E12000003,Yorkshire and The Humber,156,13
+"2020-06-21",region,E12000003,Yorkshire and The Humber,116,12
+"2020-06-20",region,E12000003,Yorkshire and The Humber,163,10
+"2020-06-19",region,E12000003,Yorkshire and The Humber,202,7
+"2020-06-18",region,E12000003,Yorkshire and The Humber,258,17
+"2020-06-17",region,E12000003,Yorkshire and The Humber,230,14
+"2020-06-16",region,E12000003,Yorkshire and The Humber,216,8
+"2020-06-15",region,E12000003,Yorkshire and The Humber,189,19
+"2020-06-14",region,E12000003,Yorkshire and The Humber,159,18
+"2020-06-13",region,E12000003,Yorkshire and The Humber,193,12
+"2020-06-12",region,E12000003,Yorkshire and The Humber,246,17
+"2020-06-11",region,E12000003,Yorkshire and The Humber,197,18
+"2020-06-10",region,E12000003,Yorkshire and The Humber,226,20
+"2020-06-09",region,E12000003,Yorkshire and The Humber,173,22
+"2020-06-08",region,E12000003,Yorkshire and The Humber,188,18
+"2020-06-07",region,E12000003,Yorkshire and The Humber,149,16
+"2020-06-06",region,E12000003,Yorkshire and The Humber,121,25
+"2020-06-05",region,E12000003,Yorkshire and The Humber,156,21
+"2020-06-04",region,E12000003,Yorkshire and The Humber,179,22
+"2020-06-03",region,E12000003,Yorkshire and The Humber,206,27
+"2020-06-02",region,E12000003,Yorkshire and The Humber,197,27
+"2020-06-01",region,E12000003,Yorkshire and The Humber,191,28
+"2020-05-31",region,E12000003,Yorkshire and The Humber,177,23
+"2020-05-30",region,E12000003,Yorkshire and The Humber,164,29
+"2020-05-29",region,E12000003,Yorkshire and The Humber,199,30
+"2020-05-28",region,E12000003,Yorkshire and The Humber,274,31
+"2020-05-27",region,E12000003,Yorkshire and The Humber,254,28
+"2020-05-26",region,E12000003,Yorkshire and The Humber,232,30
+"2020-05-25",region,E12000003,Yorkshire and The Humber,254,35
+"2020-05-24",region,E12000003,Yorkshire and The Humber,204,29
+"2020-05-23",region,E12000003,Yorkshire and The Humber,235,27
+"2020-05-22",region,E12000003,Yorkshire and The Humber,267,35
+"2020-05-21",region,E12000003,Yorkshire and The Humber,383,28
+"2020-05-20",region,E12000003,Yorkshire and The Humber,295,33
+"2020-05-19",region,E12000003,Yorkshire and The Humber,388,31
+"2020-05-18",region,E12000003,Yorkshire and The Humber,261,36
+"2020-05-17",region,E12000003,Yorkshire and The Humber,244,31
+"2020-05-16",region,E12000003,Yorkshire and The Humber,259,40
+"2020-05-15",region,E12000003,Yorkshire and The Humber,337,48
+"2020-05-14",region,E12000003,Yorkshire and The Humber,355,43
+"2020-05-13",region,E12000003,Yorkshire and The Humber,405,40
+"2020-05-12",region,E12000003,Yorkshire and The Humber,375,31
+"2020-05-11",region,E12000003,Yorkshire and The Humber,426,34
+"2020-05-10",region,E12000003,Yorkshire and The Humber,297,49
+"2020-05-09",region,E12000003,Yorkshire and The Humber,245,41
+"2020-05-08",region,E12000003,Yorkshire and The Humber,352,48
+"2020-05-07",region,E12000003,Yorkshire and The Humber,459,60
+"2020-05-06",region,E12000003,Yorkshire and The Humber,413,57
+"2020-05-05",region,E12000003,Yorkshire and The Humber,440,54
+"2020-05-04",region,E12000003,Yorkshire and The Humber,351,55
+"2020-05-03",region,E12000003,Yorkshire and The Humber,384,50
+"2020-05-02",region,E12000003,Yorkshire and The Humber,385,58
+"2020-05-01",region,E12000003,Yorkshire and The Humber,621,55
+"2020-04-30",region,E12000003,Yorkshire and The Humber,577,60
+"2020-04-29",region,E12000003,Yorkshire and The Humber,713,77
+"2020-04-28",region,E12000003,Yorkshire and The Humber,487,60
+"2020-04-27",region,E12000003,Yorkshire and The Humber,510,67
+"2020-04-26",region,E12000003,Yorkshire and The Humber,423,64
+"2020-04-25",region,E12000003,Yorkshire and The Humber,414,61
+"2020-04-24",region,E12000003,Yorkshire and The Humber,592,71
+"2020-04-23",region,E12000003,Yorkshire and The Humber,450,52
+"2020-04-22",region,E12000003,Yorkshire and The Humber,564,69
+"2020-04-21",region,E12000003,Yorkshire and The Humber,350,66
+"2020-04-20",region,E12000003,Yorkshire and The Humber,401,73
+"2020-04-19",region,E12000003,Yorkshire and The Humber,417,64
+"2020-04-18",region,E12000003,Yorkshire and The Humber,364,62
+"2020-04-17",region,E12000003,Yorkshire and The Humber,350,71
+"2020-04-16",region,E12000003,Yorkshire and The Humber,374,82
+"2020-04-15",region,E12000003,Yorkshire and The Humber,473,80
+"2020-04-14",region,E12000003,Yorkshire and The Humber,315,63
+"2020-04-13",region,E12000003,Yorkshire and The Humber,326,64
+"2020-04-12",region,E12000003,Yorkshire and The Humber,269,62
+"2020-04-11",region,E12000003,Yorkshire and The Humber,261,59
+"2020-04-10",region,E12000003,Yorkshire and The Humber,299,71
+"2020-04-09",region,E12000003,Yorkshire and The Humber,303,71
+"2020-04-08",region,E12000003,Yorkshire and The Humber,318,76
+"2020-04-07",region,E12000003,Yorkshire and The Humber,336,60
+"2020-04-06",region,E12000003,Yorkshire and The Humber,321,56
+"2020-04-05",region,E12000003,Yorkshire and The Humber,216,52
+"2020-04-04",region,E12000003,Yorkshire and The Humber,202,69
+"2020-04-03",region,E12000003,Yorkshire and The Humber,293,53
+"2020-04-02",region,E12000003,Yorkshire and The Humber,243,44
+"2020-04-01",region,E12000003,Yorkshire and The Humber,297,42
+"2020-03-31",region,E12000003,Yorkshire and The Humber,319,37
+"2020-03-30",region,E12000003,Yorkshire and The Humber,285,30
+"2020-03-29",region,E12000003,Yorkshire and The Humber,228,29
+"2020-03-28",region,E12000003,Yorkshire and The Humber,207,23
+"2020-03-27",region,E12000003,Yorkshire and The Humber,153,20
+"2020-03-26",region,E12000003,Yorkshire and The Humber,177,15
+"2020-03-25",region,E12000003,Yorkshire and The Humber,151,9
+"2020-03-24",region,E12000003,Yorkshire and The Humber,157,7
+"2020-03-23",region,E12000003,Yorkshire and The Humber,144,6
+"2020-03-22",region,E12000003,Yorkshire and The Humber,95,2
+"2020-03-21",region,E12000003,Yorkshire and The Humber,77,2
+"2020-03-20",region,E12000003,Yorkshire and The Humber,59,2
+"2020-03-19",region,E12000003,Yorkshire and The Humber,55,1
+"2020-03-18",region,E12000003,Yorkshire and The Humber,47,2
+"2020-03-17",region,E12000003,Yorkshire and The Humber,31,2
+"2020-03-16",region,E12000003,Yorkshire and The Humber,28,2
+"2020-03-15",region,E12000003,Yorkshire and The Humber,10,2
+"2020-03-14",region,E12000003,Yorkshire and The Humber,12,0
+"2020-03-13",region,E12000003,Yorkshire and The Humber,12,0
+"2020-03-12",region,E12000003,Yorkshire and The Humber,14,1
+"2020-03-11",region,E12000003,Yorkshire and The Humber,10,
+"2020-03-10",region,E12000003,Yorkshire and The Humber,18,
+"2020-03-09",region,E12000003,Yorkshire and The Humber,7,
+"2020-03-08",region,E12000003,Yorkshire and The Humber,3,
+"2020-03-07",region,E12000003,Yorkshire and The Humber,5,
+"2020-03-06",region,E12000003,Yorkshire and The Humber,1,
+"2020-03-05",region,E12000003,Yorkshire and The Humber,2,
+"2020-03-04",region,E12000003,Yorkshire and The Humber,2,
+"2020-03-03",region,E12000003,Yorkshire and The Humber,4,
+"2020-03-02",region,E12000003,Yorkshire and The Humber,3,
+"2020-03-01",region,E12000003,Yorkshire and The Humber,2,
+"2020-02-29",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-28",region,E12000003,Yorkshire and The Humber,2,
+"2020-02-27",region,E12000003,Yorkshire and The Humber,1,
+"2020-02-26",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-25",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-24",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-23",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-22",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-21",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-20",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-19",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-18",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-17",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-16",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-15",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-14",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-13",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-12",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-11",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-10",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-09",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-08",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-07",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-06",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-05",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-04",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-03",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-02",region,E12000003,Yorkshire and The Humber,0,
+"2020-02-01",region,E12000003,Yorkshire and The Humber,0,
+"2020-01-31",region,E12000003,Yorkshire and The Humber,0,
+"2020-01-30",region,E12000003,Yorkshire and The Humber,1,
+"2021-01-17",region,E12000009,South West,195,6
+"2021-01-16",region,E12000009,South West,1201,23
+"2021-01-15",region,E12000009,South West,2143,43
+"2021-01-14",region,E12000009,South West,2712,65
+"2021-01-13",region,E12000009,South West,2825,60
+"2021-01-12",region,E12000009,South West,3046,77
+"2021-01-11",region,E12000009,South West,3662,54
+"2021-01-10",region,E12000009,South West,2145,58
+"2021-01-09",region,E12000009,South West,2464,42
+"2021-01-08",region,E12000009,South West,2686,50
+"2021-01-07",region,E12000009,South West,2841,54
+"2021-01-06",region,E12000009,South West,3157,46
+"2021-01-05",region,E12000009,South West,3908,52
+"2021-01-04",region,E12000009,South West,4166,47
+"2021-01-03",region,E12000009,South West,2796,38
+"2021-01-02",region,E12000009,South West,3025,41
+"2021-01-01",region,E12000009,South West,1833,44
+"2020-12-31",region,E12000009,South West,2594,40
+"2020-12-30",region,E12000009,South West,3181,28
+"2020-12-29",region,E12000009,South West,4114,39
+"2020-12-28",region,E12000009,South West,2433,39
+"2020-12-27",region,E12000009,South West,2223,39
+"2020-12-26",region,E12000009,South West,1823,34
+"2020-12-25",region,E12000009,South West,567,34
+"2020-12-24",region,E12000009,South West,1126,32
+"2020-12-23",region,E12000009,South West,1776,28
+"2020-12-22",region,E12000009,South West,1796,37
+"2020-12-21",region,E12000009,South West,1945,34
+"2020-12-20",region,E12000009,South West,1268,24
+"2020-12-19",region,E12000009,South West,775,35
+"2020-12-18",region,E12000009,South West,1246,21
+"2020-12-17",region,E12000009,South West,1116,40
+"2020-12-16",region,E12000009,South West,1328,28
+"2020-12-15",region,E12000009,South West,1217,35
+"2020-12-14",region,E12000009,South West,1259,34
+"2020-12-13",region,E12000009,South West,815,30
+"2020-12-12",region,E12000009,South West,663,21
+"2020-12-11",region,E12000009,South West,808,37
+"2020-12-10",region,E12000009,South West,865,41
+"2020-12-09",region,E12000009,South West,814,33
+"2020-12-08",region,E12000009,South West,843,26
+"2020-12-07",region,E12000009,South West,779,28
+"2020-12-06",region,E12000009,South West,504,20
+"2020-12-05",region,E12000009,South West,513,27
+"2020-12-04",region,E12000009,South West,591,32
+"2020-12-03",region,E12000009,South West,668,27
+"2020-12-02",region,E12000009,South West,651,29
+"2020-12-01",region,E12000009,South West,729,29
+"2020-11-30",region,E12000009,South West,797,36
+"2020-11-29",region,E12000009,South West,500,33
+"2020-11-28",region,E12000009,South West,504,38
+"2020-11-27",region,E12000009,South West,696,30
+"2020-11-26",region,E12000009,South West,763,23
+"2020-11-25",region,E12000009,South West,849,33
+"2020-11-24",region,E12000009,South West,824,35
+"2020-11-23",region,E12000009,South West,1012,19
+"2020-11-22",region,E12000009,South West,571,40
+"2020-11-21",region,E12000009,South West,693,42
+"2020-11-20",region,E12000009,South West,898,39
+"2020-11-19",region,E12000009,South West,989,24
+"2020-11-18",region,E12000009,South West,1175,29
+"2020-11-17",region,E12000009,South West,1295,29
+"2020-11-16",region,E12000009,South West,1733,25
+"2020-11-15",region,E12000009,South West,1060,20
+"2020-11-14",region,E12000009,South West,1256,14
+"2020-11-13",region,E12000009,South West,1716,19
+"2020-11-12",region,E12000009,South West,1561,23
+"2020-11-11",region,E12000009,South West,1596,20
+"2020-11-10",region,E12000009,South West,1777,11
+"2020-11-09",region,E12000009,South West,1902,22
+"2020-11-08",region,E12000009,South West,1293,21
+"2020-11-07",region,E12000009,South West,1165,14
+"2020-11-06",region,E12000009,South West,1483,18
+"2020-11-05",region,E12000009,South West,1560,20
+"2020-11-04",region,E12000009,South West,1606,8
+"2020-11-03",region,E12000009,South West,1536,9
+"2020-11-02",region,E12000009,South West,1793,18
+"2020-11-01",region,E12000009,South West,717,9
+"2020-10-31",region,E12000009,South West,854,10
+"2020-10-30",region,E12000009,South West,1243,14
+"2020-10-29",region,E12000009,South West,1411,18
+"2020-10-28",region,E12000009,South West,1374,13
+"2020-10-27",region,E12000009,South West,1426,13
+"2020-10-26",region,E12000009,South West,1345,13
+"2020-10-25",region,E12000009,South West,909,8
+"2020-10-24",region,E12000009,South West,790,13
+"2020-10-23",region,E12000009,South West,1140,7
+"2020-10-22",region,E12000009,South West,1279,10
+"2020-10-21",region,E12000009,South West,1358,7
+"2020-10-20",region,E12000009,South West,1142,5
+"2020-10-19",region,E12000009,South West,1134,6
+"2020-10-18",region,E12000009,South West,590,5
+"2020-10-17",region,E12000009,South West,647,9
+"2020-10-16",region,E12000009,South West,791,5
+"2020-10-15",region,E12000009,South West,679,4
+"2020-10-14",region,E12000009,South West,856,4
+"2020-10-13",region,E12000009,South West,952,2
+"2020-10-12",region,E12000009,South West,743,6
+"2020-10-11",region,E12000009,South West,477,7
+"2020-10-10",region,E12000009,South West,562,1
+"2020-10-09",region,E12000009,South West,757,6
+"2020-10-08",region,E12000009,South West,838,1
+"2020-10-07",region,E12000009,South West,792,2
+"2020-10-06",region,E12000009,South West,647,5
+"2020-10-05",region,E12000009,South West,646,4
+"2020-10-04",region,E12000009,South West,430,5
+"2020-10-03",region,E12000009,South West,397,5
+"2020-10-02",region,E12000009,South West,416,2
+"2020-10-01",region,E12000009,South West,391,3
+"2020-09-30",region,E12000009,South West,394,3
+"2020-09-29",region,E12000009,South West,268,4
+"2020-09-28",region,E12000009,South West,318,4
+"2020-09-27",region,E12000009,South West,119,5
+"2020-09-26",region,E12000009,South West,129,2
+"2020-09-25",region,E12000009,South West,218,2
+"2020-09-24",region,E12000009,South West,208,4
+"2020-09-23",region,E12000009,South West,171,1
+"2020-09-22",region,E12000009,South West,151,2
+"2020-09-21",region,E12000009,South West,150,4
+"2020-09-20",region,E12000009,South West,144,2
+"2020-09-19",region,E12000009,South West,126,5
+"2020-09-18",region,E12000009,South West,124,2
+"2020-09-17",region,E12000009,South West,107,5
+"2020-09-16",region,E12000009,South West,74,0
+"2020-09-15",region,E12000009,South West,86,6
+"2020-09-14",region,E12000009,South West,77,1
+"2020-09-13",region,E12000009,South West,55,5
+"2020-09-12",region,E12000009,South West,63,0
+"2020-09-11",region,E12000009,South West,94,0
+"2020-09-10",region,E12000009,South West,84,3
+"2020-09-09",region,E12000009,South West,76,0
+"2020-09-08",region,E12000009,South West,75,3
+"2020-09-07",region,E12000009,South West,97,2
+"2020-09-06",region,E12000009,South West,73,6
+"2020-09-05",region,E12000009,South West,83,6
+"2020-09-04",region,E12000009,South West,131,5
+"2020-09-03",region,E12000009,South West,146,4
+"2020-09-02",region,E12000009,South West,131,2
+"2020-09-01",region,E12000009,South West,99,2
+"2020-08-31",region,E12000009,South West,57,6
+"2020-08-30",region,E12000009,South West,34,2
+"2020-08-29",region,E12000009,South West,50,1
+"2020-08-28",region,E12000009,South West,72,3
+"2020-08-27",region,E12000009,South West,56,3
+"2020-08-26",region,E12000009,South West,62,0
+"2020-08-25",region,E12000009,South West,50,3
+"2020-08-24",region,E12000009,South West,49,3
+"2020-08-23",region,E12000009,South West,41,2
+"2020-08-22",region,E12000009,South West,39,3
+"2020-08-21",region,E12000009,South West,64,0
+"2020-08-20",region,E12000009,South West,85,5
+"2020-08-19",region,E12000009,South West,69,1
+"2020-08-18",region,E12000009,South West,58,1
+"2020-08-17",region,E12000009,South West,48,3
+"2020-08-16",region,E12000009,South West,37,2
+"2020-08-15",region,E12000009,South West,24,3
+"2020-08-14",region,E12000009,South West,55,4
+"2020-08-13",region,E12000009,South West,53,3
+"2020-08-12",region,E12000009,South West,42,2
+"2020-08-11",region,E12000009,South West,41,3
+"2020-08-10",region,E12000009,South West,42,6
+"2020-08-09",region,E12000009,South West,15,5
+"2020-08-08",region,E12000009,South West,25,5
+"2020-08-07",region,E12000009,South West,41,1
+"2020-08-06",region,E12000009,South West,45,3
+"2020-08-05",region,E12000009,South West,40,2
+"2020-08-04",region,E12000009,South West,54,4
+"2020-08-03",region,E12000009,South West,43,3
+"2020-08-02",region,E12000009,South West,10,4
+"2020-08-01",region,E12000009,South West,9,0
+"2020-07-31",region,E12000009,South West,29,2
+"2020-07-30",region,E12000009,South West,63,2
+"2020-07-29",region,E12000009,South West,53,4
+"2020-07-28",region,E12000009,South West,34,0
+"2020-07-27",region,E12000009,South West,39,2
+"2020-07-26",region,E12000009,South West,20,5
+"2020-07-25",region,E12000009,South West,17,3
+"2020-07-24",region,E12000009,South West,34,2
+"2020-07-23",region,E12000009,South West,40,1
+"2020-07-22",region,E12000009,South West,30,0
+"2020-07-21",region,E12000009,South West,35,3
+"2020-07-20",region,E12000009,South West,23,7
+"2020-07-19",region,E12000009,South West,9,3
+"2020-07-18",region,E12000009,South West,12,5
+"2020-07-17",region,E12000009,South West,20,2
+"2020-07-16",region,E12000009,South West,27,2
+"2020-07-15",region,E12000009,South West,17,5
+"2020-07-14",region,E12000009,South West,19,5
+"2020-07-13",region,E12000009,South West,17,2
+"2020-07-12",region,E12000009,South West,6,2
+"2020-07-11",region,E12000009,South West,6,2
+"2020-07-10",region,E12000009,South West,13,3
+"2020-07-09",region,E12000009,South West,17,4
+"2020-07-08",region,E12000009,South West,15,5
+"2020-07-07",region,E12000009,South West,16,0
+"2020-07-06",region,E12000009,South West,23,7
+"2020-07-05",region,E12000009,South West,17,3
+"2020-07-04",region,E12000009,South West,9,3
+"2020-07-03",region,E12000009,South West,8,4
+"2020-07-02",region,E12000009,South West,11,3
+"2020-07-01",region,E12000009,South West,24,5
+"2020-06-30",region,E12000009,South West,18,6
+"2020-06-29",region,E12000009,South West,16,2
+"2020-06-28",region,E12000009,South West,11,1
+"2020-06-27",region,E12000009,South West,8,6
+"2020-06-26",region,E12000009,South West,12,5
+"2020-06-25",region,E12000009,South West,8,3
+"2020-06-24",region,E12000009,South West,17,4
+"2020-06-23",region,E12000009,South West,15,7
+"2020-06-22",region,E12000009,South West,19,2
+"2020-06-21",region,E12000009,South West,8,6
+"2020-06-20",region,E12000009,South West,8,3
+"2020-06-19",region,E12000009,South West,24,3
+"2020-06-18",region,E12000009,South West,13,5
+"2020-06-17",region,E12000009,South West,16,3
+"2020-06-16",region,E12000009,South West,15,6
+"2020-06-15",region,E12000009,South West,20,3
+"2020-06-14",region,E12000009,South West,9,5
+"2020-06-13",region,E12000009,South West,13,4
+"2020-06-12",region,E12000009,South West,19,9
+"2020-06-11",region,E12000009,South West,25,8
+"2020-06-10",region,E12000009,South West,31,10
+"2020-06-09",region,E12000009,South West,25,4
+"2020-06-08",region,E12000009,South West,23,7
+"2020-06-07",region,E12000009,South West,18,14
+"2020-06-06",region,E12000009,South West,24,5
+"2020-06-05",region,E12000009,South West,52,9
+"2020-06-04",region,E12000009,South West,65,9
+"2020-06-03",region,E12000009,South West,68,13
+"2020-06-02",region,E12000009,South West,52,8
+"2020-06-01",region,E12000009,South West,52,14
+"2020-05-31",region,E12000009,South West,62,7
+"2020-05-30",region,E12000009,South West,51,8
+"2020-05-29",region,E12000009,South West,75,11
+"2020-05-28",region,E12000009,South West,115,17
+"2020-05-27",region,E12000009,South West,103,13
+"2020-05-26",region,E12000009,South West,81,12
+"2020-05-25",region,E12000009,South West,61,13
+"2020-05-24",region,E12000009,South West,59,10
+"2020-05-23",region,E12000009,South West,41,15
+"2020-05-22",region,E12000009,South West,82,13
+"2020-05-21",region,E12000009,South West,87,13
+"2020-05-20",region,E12000009,South West,137,13
+"2020-05-19",region,E12000009,South West,108,17
+"2020-05-18",region,E12000009,South West,119,15
+"2020-05-17",region,E12000009,South West,97,12
+"2020-05-16",region,E12000009,South West,92,13
+"2020-05-15",region,E12000009,South West,104,10
+"2020-05-14",region,E12000009,South West,94,14
+"2020-05-13",region,E12000009,South West,177,19
+"2021-01-17",region,E12000008,South East,582,24
+"2020-05-12",region,E12000009,South West,178,8
+"2020-05-11",region,E12000009,South West,254,14
+"2020-05-10",region,E12000009,South West,134,15
+"2020-05-09",region,E12000009,South West,107,26
+"2020-05-08",region,E12000009,South West,178,17
+"2020-05-07",region,E12000009,South West,180,31
+"2021-01-16",region,E12000008,South East,3223,94
+"2021-01-15",region,E12000008,South East,5617,134
+"2020-05-06",region,E12000009,South West,200,34
+"2021-01-14",region,E12000008,South East,6415,202
+"2020-05-05",region,E12000009,South West,171,32
+"2021-01-13",region,E12000008,South East,6665,190
+"2020-05-04",region,E12000009,South West,165,31
+"2020-05-03",region,E12000009,South West,176,20
+"2020-05-02",region,E12000009,South West,209,24
+"2020-05-01",region,E12000009,South West,265,12
+"2020-04-30",region,E12000009,South West,245,41
+"2020-04-29",region,E12000009,South West,347,34
+"2021-01-12",region,E12000008,South East,7157,215
+"2020-04-28",region,E12000009,South West,276,31
+"2021-01-11",region,E12000008,South East,8746,205
+"2020-04-27",region,E12000009,South West,321,33
+"2021-01-10",region,E12000008,South East,5365,191
+"2021-01-09",region,E12000008,South East,5792,169
+"2020-04-26",region,E12000009,South West,254,37
+"2021-01-08",region,E12000008,South East,7305,185
+"2020-04-25",region,E12000009,South West,200,29
+"2021-01-07",region,E12000008,South East,7887,205
+"2020-04-24",region,E12000009,South West,250,38
+"2021-01-06",region,E12000008,South East,8502,202
+"2020-04-23",region,E12000009,South West,281,35
+"2021-01-05",region,E12000008,South East,10308,164
+"2021-01-04",region,E12000008,South East,12499,188
+"2021-01-03",region,E12000008,South East,8377,145
+"2021-01-02",region,E12000008,South East,9539,151
+"2020-04-22",region,E12000009,South West,286,31
+"2020-04-21",region,E12000009,South West,227,46
+"2020-04-20",region,E12000009,South West,183,41
+"2020-04-19",region,E12000009,South West,200,51
+"2020-04-18",region,E12000009,South West,167,42
+"2020-04-17",region,E12000009,South West,239,49
+"2021-01-01",region,E12000008,South East,5530,123
+"2020-12-31",region,E12000008,South East,8450,151
+"2020-12-30",region,E12000008,South East,12095,156
+"2020-12-29",region,E12000008,South East,14650,132
+"2020-12-28",region,E12000008,South East,7908,135
+"2020-12-27",region,E12000008,South East,8010,139
+"2020-04-16",region,E12000009,South West,262,39
+"2020-04-15",region,E12000009,South West,211,41
+"2020-12-26",region,E12000008,South East,7354,123
+"2020-04-14",region,E12000009,South West,186,35
+"2020-04-13",region,E12000009,South West,194,45
+"2020-04-12",region,E12000009,South West,179,37
+"2020-04-11",region,E12000009,South West,172,42
+"2020-04-10",region,E12000009,South West,233,62
+"2020-12-25",region,E12000008,South East,2473,131
+"2020-12-24",region,E12000008,South East,5710,110
+"2020-12-23",region,E12000008,South East,7013,115
+"2020-12-22",region,E12000008,South East,8346,123
+"2020-12-21",region,E12000008,South East,8906,125
+"2020-04-09",region,E12000009,South West,246,31
+"2020-12-20",region,E12000008,South East,6000,100
+"2020-12-19",region,E12000008,South East,3966,91
+"2020-12-18",region,E12000008,South East,6241,78
+"2020-04-08",region,E12000009,South West,237,51
+"2020-04-07",region,E12000009,South West,212,46
+"2020-04-06",region,E12000009,South West,185,42
+"2020-12-17",region,E12000008,South East,5914,104
+"2020-04-05",region,E12000009,South West,153,37
+"2020-12-16",region,E12000008,South East,6030,90
+"2020-04-04",region,E12000009,South West,174,41
+"2020-12-15",region,E12000008,South East,6038,79
+"2020-04-03",region,E12000009,South West,191,32
+"2020-12-14",region,E12000008,South East,5993,74
+"2020-04-02",region,E12000009,South West,183,31
+"2020-12-13",region,E12000008,South East,3685,73
+"2020-12-12",region,E12000008,South East,3289,66
+"2020-04-01",region,E12000009,South West,183,24
+"2020-03-31",region,E12000009,South West,141,26
+"2020-12-11",region,E12000008,South East,4074,79
+"2020-03-30",region,E12000009,South West,164,28
+"2020-12-10",region,E12000008,South East,3586,59
+"2020-03-29",region,E12000009,South West,101,23
+"2020-12-09",region,E12000008,South East,3234,64
+"2020-12-08",region,E12000008,South East,3135,74
+"2020-03-28",region,E12000009,South West,102,23
+"2020-12-07",region,E12000008,South East,3289,46
+"2020-03-27",region,E12000009,South West,129,13
+"2020-12-06",region,E12000008,South East,2028,50
+"2020-03-26",region,E12000009,South West,119,11
+"2020-12-05",region,E12000008,South East,1883,58
+"2020-03-25",region,E12000009,South West,104,10
+"2020-12-04",region,E12000008,South East,2334,65
+"2020-03-24",region,E12000009,South West,68,6
+"2020-12-03",region,E12000008,South East,2287,65
+"2020-03-23",region,E12000009,South West,62,9
+"2020-12-02",region,E12000008,South East,2284,52
+"2020-03-22",region,E12000009,South West,44,6
+"2020-12-01",region,E12000008,South East,2280,61
+"2020-03-21",region,E12000009,South West,42,8
+"2020-11-30",region,E12000008,South East,2411,38
+"2020-03-20",region,E12000009,South West,43,3
+"2020-11-29",region,E12000008,South East,1465,55
+"2020-11-28",region,E12000008,South East,1456,42
+"2020-03-19",region,E12000009,South West,21,4
+"2020-11-27",region,E12000008,South East,2055,47
+"2020-03-18",region,E12000009,South West,44,3
+"2020-11-26",region,E12000008,South East,1755,55
+"2020-03-17",region,E12000009,South West,21,2
+"2020-11-25",region,E12000008,South East,2042,58
+"2020-03-16",region,E12000009,South West,18,0
+"2020-11-24",region,E12000008,South East,1967,45
+"2020-03-15",region,E12000009,South West,17,1
+"2020-11-23",region,E12000008,South East,2380,52
+"2020-11-22",region,E12000008,South East,1290,47
+"2020-03-14",region,E12000009,South West,10,1
+"2020-11-21",region,E12000008,South East,1471,39
+"2020-03-13",region,E12000009,South West,30,0
+"2020-11-20",region,E12000008,South East,1886,40
+"2020-03-12",region,E12000009,South West,18,0
+"2020-11-19",region,E12000008,South East,1891,43
+"2020-03-11",region,E12000009,South West,14,1
+"2020-11-18",region,E12000008,South East,2259,52
+"2020-03-10",region,E12000009,South West,11,0
+"2020-11-17",region,E12000008,South East,2281,33
+"2020-03-09",region,E12000009,South West,5,1
+"2020-11-16",region,E12000008,South East,2992,39
+"2020-03-08",region,E12000009,South West,3,
+"2020-11-15",region,E12000008,South East,1688,38
+"2020-03-07",region,E12000009,South West,5,
+"2020-11-14",region,E12000008,South East,1802,38
+"2020-03-06",region,E12000009,South West,11,
+"2020-11-13",region,E12000008,South East,2728,30
+"2020-03-05",region,E12000009,South West,3,
+"2020-11-12",region,E12000008,South East,2619,35
+"2020-11-11",region,E12000008,South East,2717,30
+"2020-03-04",region,E12000009,South West,6,
+"2020-11-10",region,E12000008,South East,2606,32
+"2020-03-03",region,E12000009,South West,10,
+"2020-11-09",region,E12000008,South East,2987,38
+"2020-03-02",region,E12000009,South West,8,
+"2020-11-08",region,E12000008,South East,1952,32
+"2020-03-01",region,E12000009,South West,3,
+"2020-11-07",region,E12000008,South East,1711,28
+"2020-02-29",region,E12000009,South West,0,
+"2020-11-06",region,E12000008,South East,1921,20
+"2020-11-05",region,E12000008,South East,1919,18
+"2020-02-28",region,E12000009,South West,0,
+"2020-11-04",region,E12000008,South East,1940,18
+"2020-11-03",region,E12000008,South East,1970,26
+"2020-11-02",region,E12000008,South East,2520,23
+"2020-11-01",region,E12000008,South East,1008,29
+"2020-02-27",region,E12000009,South West,1,
+"2020-02-26",region,E12000009,South West,1,
+"2020-10-31",region,E12000008,South East,1209,34
+"2020-10-30",region,E12000008,South East,1694,23
+"2020-10-29",region,E12000008,South East,1706,13
+"2020-10-28",region,E12000008,South East,1627,17
+"2020-10-27",region,E12000008,South East,1703,15
+"2020-10-26",region,E12000008,South East,1858,24
+"2020-10-25",region,E12000008,South East,973,14
+"2020-10-24",region,E12000008,South East,1097,16
+"2020-10-23",region,E12000008,South East,1428,20
+"2020-10-22",region,E12000008,South East,1446,11
+"2020-10-21",region,E12000008,South East,1643,17
+"2020-10-20",region,E12000008,South East,1598,15
+"2020-10-19",region,E12000008,South East,1404,12
+"2020-10-18",region,E12000008,South East,763,10
+"2020-10-17",region,E12000008,South East,796,13
+"2020-10-16",region,E12000008,South East,960,9
+"2020-10-15",region,E12000008,South East,975,12
+"2020-10-14",region,E12000008,South East,1075,14
+"2020-10-13",region,E12000008,South East,1023,14
+"2020-10-12",region,E12000008,South East,865,12
+"2020-10-11",region,E12000008,South East,485,10
+"2020-10-10",region,E12000008,South East,561,6
+"2020-10-09",region,E12000008,South East,778,6
+"2020-10-08",region,E12000008,South East,966,7
+"2020-10-07",region,E12000008,South East,907,11
+"2020-10-06",region,E12000008,South East,679,8
+"2020-10-05",region,E12000008,South East,745,4
+"2020-10-04",region,E12000008,South East,561,11
+"2020-10-03",region,E12000008,South East,542,15
+"2020-10-02",region,E12000008,South East,632,6
+"2020-10-01",region,E12000008,South East,518,11
+"2020-09-30",region,E12000008,South East,489,8
+"2020-09-29",region,E12000008,South East,350,10
+"2020-09-28",region,E12000008,South East,371,14
+"2020-09-27",region,E12000008,South East,266,7
+"2020-09-26",region,E12000008,South East,216,8
+"2020-09-25",region,E12000008,South East,312,11
+"2020-09-24",region,E12000008,South East,288,8
+"2020-09-23",region,E12000008,South East,254,6
+"2020-09-22",region,E12000008,South East,263,8
+"2020-09-21",region,E12000008,South East,226,6
+"2020-09-20",region,E12000008,South East,175,3
+"2020-09-19",region,E12000008,South East,173,8
+"2020-09-18",region,E12000008,South East,193,6
+"2020-09-17",region,E12000008,South East,163,7
+"2020-09-16",region,E12000008,South East,146,7
+"2020-09-15",region,E12000008,South East,137,14
+"2020-09-14",region,E12000008,South East,148,6
+"2020-09-13",region,E12000008,South East,63,9
+"2020-09-12",region,E12000008,South East,136,10
+"2020-09-11",region,E12000008,South East,158,3
+"2020-09-10",region,E12000008,South East,214,7
+"2020-09-09",region,E12000008,South East,167,8
+"2020-09-08",region,E12000008,South East,186,6
+"2020-09-07",region,E12000008,South East,205,4
+"2020-09-06",region,E12000008,South East,180,4
+"2020-09-05",region,E12000008,South East,158,7
+"2020-09-04",region,E12000008,South East,226,10
+"2020-09-03",region,E12000008,South East,225,7
+"2020-09-02",region,E12000008,South East,199,5
+"2020-09-01",region,E12000008,South East,124,11
+"2020-08-31",region,E12000008,South East,117,13
+"2020-08-30",region,E12000008,South East,101,4
+"2020-08-29",region,E12000008,South East,104,8
+"2020-08-28",region,E12000008,South East,116,12
+"2020-08-27",region,E12000008,South East,127,8
+"2020-08-26",region,E12000008,South East,115,9
+"2020-08-25",region,E12000008,South East,90,8
+"2020-08-24",region,E12000008,South East,95,6
+"2020-08-23",region,E12000008,South East,84,9
+"2020-08-22",region,E12000008,South East,78,8
+"2020-08-21",region,E12000008,South East,110,8
+"2020-08-20",region,E12000008,South East,130,6
+"2020-08-19",region,E12000008,South East,115,11
+"2020-08-18",region,E12000008,South East,77,6
+"2020-08-17",region,E12000008,South East,109,6
+"2020-08-16",region,E12000008,South East,36,7
+"2020-08-15",region,E12000008,South East,45,8
+"2020-08-14",region,E12000008,South East,95,13
+"2020-08-13",region,E12000008,South East,76,16
+"2020-08-12",region,E12000008,South East,83,8
+"2020-08-11",region,E12000008,South East,77,10
+"2020-08-10",region,E12000008,South East,112,15
+"2020-08-09",region,E12000008,South East,29,9
+"2020-08-08",region,E12000008,South East,31,11
+"2020-08-07",region,E12000008,South East,56,10
+"2020-08-06",region,E12000008,South East,61,5
+"2020-08-05",region,E12000008,South East,66,11
+"2020-08-04",region,E12000008,South East,66,4
+"2020-08-03",region,E12000008,South East,76,5
+"2020-08-02",region,E12000008,South East,21,9
+"2020-08-01",region,E12000008,South East,29,7
+"2020-07-31",region,E12000008,South East,41,15
+"2020-07-30",region,E12000008,South East,62,4
+"2020-07-29",region,E12000008,South East,80,11
+"2020-07-28",region,E12000008,South East,63,11
+"2020-07-27",region,E12000008,South East,85,8
+"2020-07-26",region,E12000008,South East,37,14
+"2020-07-25",region,E12000008,South East,47,8
+"2020-07-24",region,E12000008,South East,63,6
+"2020-07-23",region,E12000008,South East,76,11
+"2020-07-22",region,E12000008,South East,77,12
+"2020-07-21",region,E12000008,South East,77,11
+"2020-07-20",region,E12000008,South East,87,11
+"2020-07-19",region,E12000008,South East,46,12
+"2020-07-18",region,E12000008,South East,54,14
+"2020-07-17",region,E12000008,South East,49,12
+"2020-07-16",region,E12000008,South East,63,14
+"2020-07-15",region,E12000008,South East,63,16
+"2020-07-14",region,E12000008,South East,60,18
+"2020-07-13",region,E12000008,South East,69,11
+"2020-07-12",region,E12000008,South East,31,10
+"2020-07-11",region,E12000008,South East,34,16
+"2020-07-10",region,E12000008,South East,76,14
+"2020-07-09",region,E12000008,South East,84,14
+"2020-07-08",region,E12000008,South East,82,13
+"2020-07-07",region,E12000008,South East,55,12
+"2020-07-06",region,E12000008,South East,44,14
+"2020-07-05",region,E12000008,South East,58,12
+"2020-07-04",region,E12000008,South East,29,18
+"2020-07-03",region,E12000008,South East,62,9
+"2020-07-02",region,E12000008,South East,60,13
+"2020-07-01",region,E12000008,South East,68,11
+"2020-06-30",region,E12000008,South East,56,14
+"2020-06-29",region,E12000008,South East,78,14
+"2020-06-28",region,E12000008,South East,45,16
+"2020-06-27",region,E12000008,South East,54,18
+"2020-06-26",region,E12000008,South East,65,17
+"2020-06-25",region,E12000008,South East,64,17
+"2020-06-24",region,E12000008,South East,44,23
+"2020-06-23",region,E12000008,South East,60,16
+"2020-06-22",region,E12000008,South East,78,13
+"2020-06-21",region,E12000008,South East,67,15
+"2020-06-20",region,E12000008,South East,65,11
+"2020-06-19",region,E12000008,South East,78,19
+"2020-06-18",region,E12000008,South East,75,14
+"2020-06-17",region,E12000008,South East,82,19
+"2020-06-16",region,E12000008,South East,96,22
+"2020-06-15",region,E12000008,South East,98,18
+"2020-06-14",region,E12000008,South East,71,13
+"2020-06-13",region,E12000008,South East,66,23
+"2020-06-12",region,E12000008,South East,86,17
+"2020-06-11",region,E12000008,South East,94,15
+"2020-06-10",region,E12000008,South East,125,27
+"2020-06-09",region,E12000008,South East,114,28
+"2020-06-08",region,E12000008,South East,124,15
+"2020-06-07",region,E12000008,South East,61,23
+"2020-06-06",region,E12000008,South East,85,21
+"2020-06-05",region,E12000008,South East,141,27
+"2020-06-04",region,E12000008,South East,158,28
+"2020-06-03",region,E12000008,South East,136,24
+"2020-06-02",region,E12000008,South East,218,35
+"2020-06-01",region,E12000008,South East,184,34
+"2020-05-31",region,E12000008,South East,134,25
+"2020-05-30",region,E12000008,South East,132,29
+"2020-05-29",region,E12000008,South East,163,34
+"2020-05-28",region,E12000008,South East,202,31
+"2020-05-27",region,E12000008,South East,201,34
+"2020-05-26",region,E12000008,South East,182,40
+"2020-05-25",region,E12000008,South East,186,22
+"2020-05-24",region,E12000008,South East,150,29
+"2020-05-23",region,E12000008,South East,121,40
+"2020-05-22",region,E12000008,South East,247,49
+"2020-05-21",region,E12000008,South East,303,24
+"2020-05-20",region,E12000008,South East,340,49
+"2020-05-19",region,E12000008,South East,386,34
+"2020-05-18",region,E12000008,South East,359,39
+"2020-05-17",region,E12000008,South East,221,40
+"2020-05-16",region,E12000008,South East,191,43
+"2020-05-15",region,E12000008,South East,263,45
+"2020-05-14",region,E12000008,South East,296,59
+"2020-05-13",region,E12000008,South East,484,44
+"2020-05-12",region,E12000008,South East,411,53
+"2020-05-11",region,E12000008,South East,476,47
+"2020-05-10",region,E12000008,South East,308,41
+"2020-05-09",region,E12000008,South East,247,61
+"2020-05-08",region,E12000008,South East,352,46
+"2020-05-07",region,E12000008,South East,419,51
+"2020-05-06",region,E12000008,South East,445,48
+"2020-05-05",region,E12000008,South East,474,54
+"2020-05-04",region,E12000008,South East,488,61
+"2020-05-03",region,E12000008,South East,362,41
+"2020-05-02",region,E12000008,South East,417,57
+"2020-05-01",region,E12000008,South East,523,83
+"2020-04-30",region,E12000008,South East,651,55
+"2020-04-29",region,E12000008,South East,689,73
+"2020-04-28",region,E12000008,South East,660,69
+"2020-04-27",region,E12000008,South East,554,61
+"2020-04-26",region,E12000008,South East,501,80
+"2020-04-25",region,E12000008,South East,516,92
+"2020-04-24",region,E12000008,South East,657,93
+"2020-04-23",region,E12000008,South East,680,91
+"2020-04-22",region,E12000008,South East,694,85
+"2020-04-21",region,E12000008,South East,633,92
+"2020-04-20",region,E12000008,South East,490,116
+"2020-04-19",region,E12000008,South East,415,106
+"2020-04-18",region,E12000008,South East,522,79
+"2020-04-17",region,E12000008,South East,706,109
+"2020-04-16",region,E12000008,South East,657,86
+"2020-04-15",region,E12000008,South East,714,93
+"2020-04-14",region,E12000008,South East,554,95
+"2020-04-13",region,E12000008,South East,578,104
+"2020-04-12",region,E12000008,South East,484,117
+"2020-04-11",region,E12000008,South East,383,110
+"2020-04-10",region,E12000008,South East,577,110
+"2020-04-09",region,E12000008,South East,525,129
+"2020-04-08",region,E12000008,South East,565,112
+"2020-04-07",region,E12000008,South East,717,119
+"2020-04-06",region,E12000008,South East,592,106
+"2020-04-05",region,E12000008,South East,424,104
+"2020-04-04",region,E12000008,South East,454,114
+"2020-04-03",region,E12000008,South East,517,83
+"2021-01-17",region,E12000001,North East,234,2
+"2020-04-02",region,E12000008,South East,485,80
+"2021-01-16",region,E12000001,North East,859,9
+"2020-04-01",region,E12000008,South East,549,85
+"2021-01-15",region,E12000001,North East,1125,28
+"2020-03-31",region,E12000008,South East,470,69
+"2020-03-30",region,E12000008,South East,477,68
+"2021-01-14",region,E12000001,North East,1167,45
+"2021-01-13",region,E12000001,North East,1382,22
+"2020-03-29",region,E12000008,South East,295,62
+"2020-03-28",region,E12000008,South East,339,38
+"2021-01-12",region,E12000001,North East,1408,34
+"2020-03-27",region,E12000008,South East,329,47
+"2021-01-11",region,E12000001,North East,1670,49
+"2020-03-26",region,E12000008,South East,320,44
+"2021-01-10",region,E12000001,North East,1057,38
+"2020-03-25",region,E12000008,South East,307,40
+"2021-01-09",region,E12000001,North East,1000,39
+"2020-03-24",region,E12000008,South East,238,30
+"2021-01-08",region,E12000001,North East,1145,36
+"2020-03-23",region,E12000008,South East,281,24
+"2021-01-07",region,E12000001,North East,1479,34
+"2020-03-22",region,E12000008,South East,170,28
+"2021-01-06",region,E12000001,North East,1502,33
+"2020-03-21",region,E12000008,South East,128,14
+"2020-03-20",region,E12000008,South East,127,15
+"2021-01-05",region,E12000001,North East,1725,40
+"2020-03-19",region,E12000008,South East,127,8
+"2021-01-04",region,E12000001,North East,2287,31
+"2020-03-18",region,E12000008,South East,121,13
+"2021-01-03",region,E12000001,North East,1671,34
+"2020-03-17",region,E12000008,South East,89,8
+"2021-01-02",region,E12000001,North East,1761,28
+"2020-03-16",region,E12000008,South East,78,8
+"2021-01-01",region,E12000001,North East,948,37
+"2020-03-15",region,E12000008,South East,53,7
+"2020-12-31",region,E12000001,North East,1562,30
+"2020-03-14",region,E12000008,South East,41,3
+"2020-03-13",region,E12000008,South East,53,2
+"2020-12-30",region,E12000001,North East,2278,31
+"2020-03-12",region,E12000008,South East,86,0
+"2020-12-29",region,E12000001,North East,2434,26
+"2020-03-11",region,E12000008,South East,50,1
+"2020-12-28",region,E12000001,North East,1432,46
+"2020-12-27",region,E12000001,North East,1284,36
+"2020-03-10",region,E12000008,South East,36,1
+"2020-03-09",region,E12000008,South East,24,1
+"2020-12-26",region,E12000001,North East,977,39
+"2020-03-08",region,E12000008,South East,10,1
+"2020-12-25",region,E12000001,North East,314,25
+"2020-03-07",region,E12000008,South East,4,0
+"2020-12-24",region,E12000001,North East,775,26
+"2020-03-06",region,E12000008,South East,16,0
+"2020-12-23",region,E12000001,North East,1081,31
+"2020-12-22",region,E12000001,North East,1143,38
+"2020-03-05",region,E12000008,South East,5,2
+"2020-12-21",region,E12000001,North East,1010,29
+"2020-03-04",region,E12000008,South East,7,0
+"2020-12-20",region,E12000001,North East,757,34
+"2020-03-03",region,E12000008,South East,9,1
+"2020-12-19",region,E12000001,North East,606,38
+"2020-03-02",region,E12000008,South East,1,
+"2020-12-18",region,E12000001,North East,785,44
+"2020-03-01",region,E12000008,South East,0,
+"2020-12-17",region,E12000001,North East,648,30
+"2020-02-29",region,E12000008,South East,2,
+"2020-12-16",region,E12000001,North East,821,21
+"2020-02-28",region,E12000008,South East,2,
+"2020-12-15",region,E12000001,North East,897,32
+"2020-02-27",region,E12000008,South East,2,
+"2020-12-14",region,E12000001,North East,904,36
+"2020-02-26",region,E12000008,South East,0,
+"2020-12-13",region,E12000001,North East,572,24
+"2020-02-25",region,E12000008,South East,1,
+"2020-12-12",region,E12000001,North East,508,25
+"2020-02-24",region,E12000008,South East,1,
+"2020-12-11",region,E12000001,North East,651,32
+"2020-02-23",region,E12000008,South East,1,
+"2020-12-10",region,E12000001,North East,647,32
+"2020-02-22",region,E12000008,South East,0,
+"2020-12-09",region,E12000001,North East,644,19
+"2020-02-21",region,E12000008,South East,0,
+"2020-12-08",region,E12000001,North East,724,25
+"2020-02-20",region,E12000008,South East,0,
+"2020-12-07",region,E12000001,North East,757,35
+"2020-02-19",region,E12000008,South East,0,
+"2020-02-18",region,E12000008,South East,0,
+"2020-12-06",region,E12000001,North East,511,28
+"2020-02-17",region,E12000008,South East,0,
+"2020-12-05",region,E12000001,North East,417,34
+"2020-02-16",region,E12000008,South East,0,
+"2020-12-04",region,E12000001,North East,557,22
+"2020-02-15",region,E12000008,South East,0,
+"2020-12-03",region,E12000001,North East,591,27
+"2020-02-14",region,E12000008,South East,0,
+"2020-12-02",region,E12000001,North East,644,25
+"2020-02-13",region,E12000008,South East,0,
+"2020-12-01",region,E12000001,North East,648,25
+"2020-11-30",region,E12000001,North East,769,33
+"2020-02-12",region,E12000008,South East,0,
+"2020-11-29",region,E12000001,North East,455,35
+"2020-02-11",region,E12000008,South East,0,
+"2020-02-10",region,E12000008,South East,0,
+"2020-02-09",region,E12000008,South East,1,
+"2020-11-28",region,E12000001,North East,494,29
+"2020-02-08",region,E12000008,South East,4,
+"2020-02-07",region,E12000008,South East,0,
+"2020-02-06",region,E12000008,South East,0,
+"2020-02-05",region,E12000008,South East,1,
+"2020-11-27",region,E12000001,North East,642,24
+"2020-11-26",region,E12000001,North East,705,33
+"2020-11-25",region,E12000001,North East,807,31
+"2020-11-24",region,E12000001,North East,855,39
+"2020-11-23",region,E12000001,North East,972,37
+"2020-11-22",region,E12000001,North East,625,37
+"2020-11-21",region,E12000001,North East,678,39
+"2020-11-20",region,E12000001,North East,943,40
+"2020-11-19",region,E12000001,North East,1023,33
+"2020-11-18",region,E12000001,North East,1340,35
+"2020-11-17",region,E12000001,North East,1469,35
+"2020-11-16",region,E12000001,North East,1570,29
+"2020-11-15",region,E12000001,North East,1053,36
+"2020-11-14",region,E12000001,North East,1051,38
+"2020-11-13",region,E12000001,North East,1520,32
+"2020-11-12",region,E12000001,North East,1536,22
+"2020-11-11",region,E12000001,North East,1860,25
+"2020-11-10",region,E12000001,North East,1779,27
+"2020-11-09",region,E12000001,North East,2059,41
+"2020-11-08",region,E12000001,North East,1295,22
+"2020-11-07",region,E12000001,North East,1345,32
+"2020-11-06",region,E12000001,North East,1460,30
+"2020-11-05",region,E12000001,North East,1485,26
+"2020-11-04",region,E12000001,North East,1413,26
+"2020-11-03",region,E12000001,North East,1518,23
+"2020-11-02",region,E12000001,North East,1672,21
+"2020-11-01",region,E12000001,North East,994,28
+"2020-10-31",region,E12000001,North East,885,20
+"2020-10-30",region,E12000001,North East,1210,31
+"2020-10-29",region,E12000001,North East,1123,19
+"2020-10-28",region,E12000001,North East,1171,29
+"2020-10-27",region,E12000001,North East,1176,21
+"2020-10-26",region,E12000001,North East,1318,24
+"2020-10-25",region,E12000001,North East,848,18
+"2020-10-24",region,E12000001,North East,861,19
+"2020-10-23",region,E12000001,North East,1039,14
+"2020-10-22",region,E12000001,North East,1225,25
+"2020-10-21",region,E12000001,North East,1505,21
+"2020-10-20",region,E12000001,North East,1434,24
+"2020-10-19",region,E12000001,North East,1410,24
+"2020-10-18",region,E12000001,North East,826,18
+"2020-10-17",region,E12000001,North East,807,20
+"2020-10-16",region,E12000001,North East,1080,16
+"2020-10-15",region,E12000001,North East,1169,19
+"2020-10-14",region,E12000001,North East,1387,18
+"2020-10-13",region,E12000001,North East,1295,15
+"2020-10-12",region,E12000001,North East,1386,12
+"2020-10-11",region,E12000001,North East,932,18
+"2020-10-10",region,E12000001,North East,841,18
+"2020-10-09",region,E12000001,North East,1178,9
+"2020-10-08",region,E12000001,North East,1376,17
+"2020-10-07",region,E12000001,North East,1473,14
+"2020-10-06",region,E12000001,North East,1443,11
+"2020-10-05",region,E12000001,North East,1374,14
+"2020-10-04",region,E12000001,North East,1197,13
+"2020-10-03",region,E12000001,North East,1162,11
+"2020-10-02",region,E12000001,North East,1219,20
+"2020-10-01",region,E12000001,North East,1182,8
+"2020-09-30",region,E12000001,North East,963,7
+"2020-09-29",region,E12000001,North East,1046,8
+"2020-09-28",region,E12000001,North East,969,10
+"2020-09-27",region,E12000001,North East,660,15
+"2020-09-26",region,E12000001,North East,778,12
+"2020-09-25",region,E12000001,North East,608,9
+"2020-09-24",region,E12000001,North East,719,3
+"2020-09-23",region,E12000001,North East,640,6
+"2020-09-22",region,E12000001,North East,549,5
+"2020-09-21",region,E12000001,North East,611,9
+"2020-09-20",region,E12000001,North East,590,7
+"2020-09-19",region,E12000001,North East,434,2
+"2020-09-18",region,E12000001,North East,463,5
+"2020-09-17",region,E12000001,North East,370,7
+"2020-09-16",region,E12000001,North East,329,5
+"2020-09-15",region,E12000001,North East,263,10
+"2020-09-14",region,E12000001,North East,196,2
+"2020-09-13",region,E12000001,North East,141,1
+"2020-09-12",region,E12000001,North East,156,6
+"2020-09-11",region,E12000001,North East,200,4
+"2020-09-10",region,E12000001,North East,236,1
+"2020-09-09",region,E12000001,North East,234,1
+"2020-09-08",region,E12000001,North East,224,3
+"2020-09-07",region,E12000001,North East,203,3
+"2020-09-06",region,E12000001,North East,170,3
+"2020-09-05",region,E12000001,North East,233,4
+"2020-09-04",region,E12000001,North East,176,2
+"2020-09-03",region,E12000001,North East,204,7
+"2020-09-02",region,E12000001,North East,127,1
+"2020-09-01",region,E12000001,North East,118,1
+"2020-08-31",region,E12000001,North East,91,2
+"2020-08-30",region,E12000001,North East,61,1
+"2020-08-29",region,E12000001,North East,78,5
+"2020-08-28",region,E12000001,North East,67,5
+"2020-08-27",region,E12000001,North East,66,3
+"2020-08-26",region,E12000001,North East,68,2
+"2020-08-25",region,E12000001,North East,49,2
+"2020-08-24",region,E12000001,North East,39,0
+"2020-08-23",region,E12000001,North East,23,6
+"2020-08-22",region,E12000001,North East,33,1
+"2020-08-21",region,E12000001,North East,42,4
+"2020-08-20",region,E12000001,North East,43,7
+"2020-08-19",region,E12000001,North East,46,5
+"2020-08-18",region,E12000001,North East,36,2
+"2020-08-17",region,E12000001,North East,32,3
+"2020-08-16",region,E12000001,North East,11,0
+"2020-08-15",region,E12000001,North East,18,4
+"2020-08-14",region,E12000001,North East,31,1
+"2020-08-13",region,E12000001,North East,53,3
+"2020-08-12",region,E12000001,North East,39,3
+"2020-08-11",region,E12000001,North East,45,3
+"2020-08-10",region,E12000001,North East,21,4
+"2020-08-09",region,E12000001,North East,15,6
+"2020-08-08",region,E12000001,North East,12,3
+"2020-08-07",region,E12000001,North East,15,4
+"2020-08-06",region,E12000001,North East,24,5
+"2020-08-05",region,E12000001,North East,30,0
+"2020-08-04",region,E12000001,North East,20,2
+"2020-08-03",region,E12000001,North East,19,4
+"2020-08-02",region,E12000001,North East,16,3
+"2020-08-01",region,E12000001,North East,9,4
+"2020-07-31",region,E12000001,North East,12,6
+"2020-07-30",region,E12000001,North East,15,3
+"2020-07-29",region,E12000001,North East,21,1
+"2021-01-17",region,E12000007,London,857,42
+"2020-07-28",region,E12000001,North East,5,5
+"2020-07-27",region,E12000001,North East,9,4
+"2020-07-26",region,E12000001,North East,6,2
+"2020-07-25",region,E12000001,North East,5,2
+"2020-07-24",region,E12000001,North East,7,2
+"2020-07-23",region,E12000001,North East,8,2
+"2020-07-22",region,E12000001,North East,16,3
+"2020-07-21",region,E12000001,North East,14,3
+"2020-07-20",region,E12000001,North East,11,3
+"2020-07-19",region,E12000001,North East,7,3
+"2020-07-18",region,E12000001,North East,4,3
+"2020-07-17",region,E12000001,North East,10,4
+"2020-07-16",region,E12000001,North East,15,0
+"2020-07-15",region,E12000001,North East,16,1
+"2020-07-14",region,E12000001,North East,12,5
+"2021-01-16",region,E12000007,London,4280,88
+"2021-01-15",region,E12000007,London,7568,117
+"2021-01-14",region,E12000007,London,8672,154
+"2021-01-13",region,E12000007,London,9122,172
+"2020-07-13",region,E12000001,North East,9,5
+"2021-01-12",region,E12000007,London,9709,181
+"2020-07-12",region,E12000001,North East,3,2
+"2021-01-11",region,E12000007,London,11136,175
+"2021-01-10",region,E12000007,London,7444,163
+"2020-07-11",region,E12000001,North East,7,1
+"2021-01-09",region,E12000007,London,8689,178
+"2021-01-08",region,E12000007,London,10461,160
+"2020-07-10",region,E12000001,North East,10,4
+"2021-01-07",region,E12000007,London,12005,174
+"2020-07-09",region,E12000001,North East,17,2
+"2021-01-06",region,E12000007,London,13420,167
+"2021-01-05",region,E12000007,London,14500,181
+"2021-01-04",region,E12000007,London,17170,163
+"2021-01-03",region,E12000007,London,13109,136
+"2020-07-08",region,E12000001,North East,12,4
+"2021-01-02",region,E12000007,London,13617,151
+"2021-01-01",region,E12000007,London,6730,144
+"2020-07-07",region,E12000001,North East,12,2
+"2020-07-06",region,E12000001,North East,11,3
+"2020-12-31",region,E12000007,London,12377,133
+"2020-07-05",region,E12000001,North East,4,2
+"2020-12-30",region,E12000007,London,17313,131
+"2020-07-04",region,E12000001,North East,9,4
+"2020-12-29",region,E12000007,London,19874,122
+"2020-07-03",region,E12000001,North East,8,4
+"2020-12-28",region,E12000007,London,10664,102
+"2020-07-02",region,E12000001,North East,9,4
+"2020-07-01",region,E12000001,North East,7,5
+"2020-12-27",region,E12000007,London,13144,111
+"2020-06-30",region,E12000001,North East,11,4
+"2020-12-26",region,E12000007,London,11849,104
+"2020-06-29",region,E12000001,North East,11,3
+"2020-12-25",region,E12000007,London,4327,97
+"2020-06-28",region,E12000001,North East,9,7
+"2020-12-24",region,E12000007,London,9411,74
+"2020-06-27",region,E12000001,North East,13,2
+"2020-12-23",region,E12000007,London,12355,78
+"2020-12-22",region,E12000007,London,13323,90
+"2020-06-26",region,E12000001,North East,8,7
+"2020-06-25",region,E12000001,North East,12,12
+"2020-12-21",region,E12000007,London,13223,70
+"2020-06-24",region,E12000001,North East,11,3
+"2020-12-20",region,E12000007,London,8876,62
+"2020-06-23",region,E12000001,North East,26,7
+"2020-12-19",region,E12000007,London,7138,60
+"2020-06-22",region,E12000001,North East,24,5
+"2020-12-18",region,E12000007,London,10761,55
+"2020-06-21",region,E12000001,North East,4,9
+"2020-12-17",region,E12000007,London,10127,67
+"2020-06-20",region,E12000001,North East,17,5
+"2020-12-16",region,E12000007,London,9911,45
+"2020-06-19",region,E12000001,North East,14,3
+"2020-12-15",region,E12000007,London,8822,54
+"2020-06-18",region,E12000001,North East,23,8
+"2020-12-14",region,E12000007,London,8308,46
+"2020-06-17",region,E12000001,North East,19,3
+"2020-06-16",region,E12000001,North East,18,11
+"2020-06-15",region,E12000001,North East,32,3
+"2020-06-14",region,E12000001,North East,31,8
+"2020-06-13",region,E12000001,North East,31,6
+"2020-06-12",region,E12000001,North East,40,6
+"2020-06-11",region,E12000001,North East,23,11
+"2020-06-10",region,E12000001,North East,38,8
+"2020-06-09",region,E12000001,North East,40,11
+"2020-12-13",region,E12000007,London,5495,34
+"2020-06-08",region,E12000001,North East,33,10
+"2020-12-12",region,E12000007,London,4655,57
+"2020-06-07",region,E12000001,North East,17,12
+"2020-12-11",region,E12000007,London,5469,38
+"2020-06-06",region,E12000001,North East,28,7
+"2020-12-10",region,E12000007,London,4990,38
+"2020-06-05",region,E12000001,North East,42,15
+"2020-06-04",region,E12000001,North East,59,11
+"2020-12-09",region,E12000007,London,4408,33
+"2020-12-08",region,E12000007,London,3694,46
+"2020-12-07",region,E12000007,London,3703,46
+"2020-12-06",region,E12000007,London,2418,37
+"2020-12-05",region,E12000007,London,2273,36
+"2020-06-03",region,E12000001,North East,51,10
+"2020-12-04",region,E12000007,London,2918,39
+"2020-06-02",region,E12000001,North East,59,20
+"2020-12-03",region,E12000007,London,2447,48
+"2020-12-02",region,E12000007,London,2786,33
+"2020-12-01",region,E12000007,London,2447,31
+"2020-11-30",region,E12000007,London,2688,36
+"2020-11-29",region,E12000007,London,1651,53
+"2020-11-28",region,E12000007,London,1636,38
+"2020-11-27",region,E12000007,London,2195,32
+"2020-11-26",region,E12000007,London,2063,35
+"2020-06-01",region,E12000001,North East,70,7
+"2020-05-31",region,E12000001,North East,46,15
+"2020-05-30",region,E12000001,North East,46,14
+"2020-05-29",region,E12000001,North East,70,23
+"2020-05-28",region,E12000001,North East,49,17
+"2020-05-27",region,E12000001,North East,116,14
+"2020-05-26",region,E12000001,North East,100,23
+"2020-05-25",region,E12000001,North East,59,12
+"2020-11-25",region,E12000007,London,2238,45
+"2020-05-24",region,E12000001,North East,77,18
+"2020-11-24",region,E12000007,London,2145,35
+"2020-05-23",region,E12000001,North East,76,18
+"2020-11-23",region,E12000007,London,2386,25
+"2020-05-22",region,E12000001,North East,95,18
+"2020-11-22",region,E12000007,London,1479,38
+"2020-11-21",region,E12000007,London,1473,26
+"2020-05-21",region,E12000001,North East,130,23
+"2020-11-20",region,E12000007,London,2107,30
+"2020-11-19",region,E12000007,London,2177,28
+"2020-05-20",region,E12000001,North East,131,19
+"2020-11-18",region,E12000007,London,2453,22
+"2020-11-17",region,E12000007,London,2555,38
+"2020-11-16",region,E12000007,London,3067,38
+"2020-11-15",region,E12000007,London,1796,24
+"2020-11-14",region,E12000007,London,1916,27
+"2020-11-13",region,E12000007,London,2694,19
+"2020-11-12",region,E12000007,London,2837,22
+"2020-11-11",region,E12000007,London,2911,17
+"2020-11-10",region,E12000007,London,2723,23
+"2020-11-09",region,E12000007,London,3079,34
+"2020-11-08",region,E12000007,London,1758,24
+"2020-11-07",region,E12000007,London,1647,32
+"2020-11-06",region,E12000007,London,2109,22
+"2020-11-05",region,E12000007,London,2088,21
+"2020-11-04",region,E12000007,London,2043,19
+"2020-11-03",region,E12000007,London,2126,17
+"2020-11-02",region,E12000007,London,2907,22
+"2020-11-01",region,E12000007,London,1206,20
+"2020-10-31",region,E12000007,London,1387,12
+"2020-10-30",region,E12000007,London,1873,18
+"2020-05-19",region,E12000001,North East,124,22
+"2020-05-18",region,E12000001,North East,147,34
+"2020-05-17",region,E12000001,North East,98,30
+"2020-05-16",region,E12000001,North East,126,34
+"2020-05-15",region,E12000001,North East,137,21
+"2020-05-14",region,E12000001,North East,139,27
+"2020-05-13",region,E12000001,North East,142,29
+"2020-05-12",region,E12000001,North East,220,20
+"2020-05-11",region,E12000001,North East,228,30
+"2020-05-10",region,E12000001,North East,150,21
+"2020-05-09",region,E12000001,North East,151,27
+"2020-05-08",region,E12000001,North East,158,29
+"2020-05-07",region,E12000001,North East,199,36
+"2020-05-06",region,E12000001,North East,242,27
+"2020-05-05",region,E12000001,North East,252,28
+"2021-01-17",region,E12000006,East of England,386,19
+"2020-05-04",region,E12000001,North East,234,28
+"2021-01-16",region,E12000006,East of England,2199,47
+"2020-05-03",region,E12000001,North East,161,31
+"2020-10-29",region,E12000007,London,2009,15
+"2021-01-15",region,E12000006,East of England,4177,90
+"2020-05-02",region,E12000001,North East,183,42
+"2020-10-28",region,E12000007,London,1965,23
+"2021-01-14",region,E12000006,East of England,4531,128
+"2020-05-01",region,E12000001,North East,274,41
+"2021-01-13",region,E12000006,East of England,4842,134
+"2020-10-27",region,E12000007,London,2086,22
+"2020-04-30",region,E12000001,North East,385,34
+"2021-01-12",region,E12000006,East of England,5182,153
+"2020-04-29",region,E12000001,North East,356,29
+"2020-10-26",region,E12000007,London,2523,15
+"2021-01-11",region,E12000006,East of England,6047,151
+"2020-04-28",region,E12000001,North East,361,42
+"2020-10-25",region,E12000007,London,1293,18
+"2021-01-10",region,E12000006,East of England,3725,155
+"2020-04-27",region,E12000001,North East,282,33
+"2020-10-24",region,E12000007,London,1432,23
+"2021-01-09",region,E12000006,East of England,4030,160
+"2020-04-26",region,E12000001,North East,159,34
+"2020-10-23",region,E12000007,London,2003,14
+"2021-01-08",region,E12000006,East of England,5218,117
+"2020-04-25",region,E12000001,North East,215,49
+"2021-01-07",region,E12000006,East of England,5790,149
+"2020-10-22",region,E12000007,London,2173,17
+"2020-04-24",region,E12000001,North East,333,29
+"2021-01-06",region,E12000006,East of England,6242,128
+"2020-10-21",region,E12000007,London,2358,22
+"2020-04-23",region,E12000001,North East,332,34
+"2021-01-05",region,E12000006,East of England,7236,138
+"2020-04-22",region,E12000001,North East,362,38
+"2020-10-20",region,E12000007,London,2312,12
+"2021-01-04",region,E12000006,East of England,9334,135
+"2020-04-21",region,E12000001,North East,287,37
+"2020-10-19",region,E12000007,London,2335,14
+"2020-10-18",region,E12000007,London,1294,7
+"2020-10-17",region,E12000007,London,1106,6
+"2020-10-16",region,E12000007,London,1654,10
+"2020-10-15",region,E12000007,London,1719,16
+"2021-01-03",region,E12000006,East of England,6502,110
+"2020-04-20",region,E12000001,North East,315,43
+"2020-10-14",region,E12000007,London,1623,5
+"2020-04-19",region,E12000001,North East,276,46
+"2020-04-18",region,E12000001,North East,378,50
+"2020-10-13",region,E12000007,London,1423,10
+"2021-01-02",region,E12000006,East of England,7283,99
+"2020-04-17",region,E12000001,North East,291,37
+"2021-01-01",region,E12000006,East of England,4019,113
+"2020-10-12",region,E12000007,London,1572,10
+"2020-04-16",region,E12000001,North East,295,25
+"2020-12-31",region,E12000006,East of England,6469,106
+"2020-10-11",region,E12000007,London,741,8
+"2020-04-15",region,E12000001,North East,284,32
+"2020-12-30",region,E12000006,East of England,8742,101
+"2020-04-14",region,E12000001,North East,257,52
+"2020-10-10",region,E12000007,London,871,8
+"2020-12-29",region,E12000006,East of England,11112,92
+"2020-10-09",region,E12000007,London,1344,13
+"2020-04-13",region,E12000001,North East,232,37
+"2020-10-08",region,E12000007,London,1476,12
+"2020-04-12",region,E12000001,North East,201,46
+"2020-10-07",region,E12000007,London,1403,12
+"2020-04-11",region,E12000001,North East,267,49
+"2020-10-06",region,E12000007,London,1166,11
+"2020-04-10",region,E12000001,North East,245,56
+"2020-04-09",region,E12000001,North East,314,47
+"2020-10-05",region,E12000007,London,1287,17
+"2020-10-04",region,E12000007,London,819,6
+"2020-04-08",region,E12000001,North East,289,46
+"2020-10-03",region,E12000007,London,790,5
+"2020-10-02",region,E12000007,London,1037,8
+"2020-10-01",region,E12000007,London,1071,10
+"2020-09-30",region,E12000007,London,987,12
+"2020-09-29",region,E12000007,London,701,15
+"2020-04-07",region,E12000001,North East,349,41
+"2020-12-28",region,E12000006,East of England,5947,97
+"2020-12-27",region,E12000006,East of England,6548,79
+"2020-12-26",region,E12000006,East of England,5736,97
+"2020-12-25",region,E12000006,East of England,1733,88
+"2020-12-24",region,E12000006,East of England,4339,85
+"2020-12-23",region,E12000006,East of England,5875,83
+"2020-12-22",region,E12000006,East of England,6353,66
+"2020-12-21",region,E12000006,East of England,6692,81
+"2020-12-20",region,E12000006,East of England,4598,70
+"2020-12-19",region,E12000006,East of England,3395,70
+"2020-12-18",region,E12000006,East of England,5130,66
+"2020-09-28",region,E12000007,London,740,11
+"2020-12-17",region,E12000006,East of England,4620,51
+"2020-04-06",region,E12000001,North East,375,43
+"2020-12-16",region,E12000006,East of England,4716,47
+"2020-09-27",region,E12000007,London,528,11
+"2020-04-05",region,E12000001,North East,222,45
+"2020-12-15",region,E12000006,East of England,4344,46
+"2020-04-04",region,E12000001,North East,254,46
+"2020-12-14",region,E12000006,East of England,4428,43
+"2020-04-03",region,E12000001,North East,260,43
+"2020-12-13",region,E12000006,East of England,2748,46
+"2020-04-02",region,E12000001,North East,219,32
+"2020-12-12",region,E12000006,East of England,2242,36
+"2020-04-01",region,E12000001,North East,308,33
+"2020-12-11",region,E12000006,East of England,2688,57
+"2020-03-31",region,E12000001,North East,210,25
+"2020-09-26",region,E12000007,London,548,5
+"2020-12-10",region,E12000006,East of England,2315,48
+"2020-03-30",region,E12000001,North East,176,34
+"2020-09-25",region,E12000007,London,604,4
+"2020-12-09",region,E12000006,East of England,2254,40
+"2020-03-29",region,E12000001,North East,107,10
+"2020-12-08",region,E12000006,East of England,2085,38
+"2020-03-28",region,E12000001,North East,113,8
+"2020-12-07",region,E12000006,East of England,2194,36
+"2020-03-27",region,E12000001,North East,102,11
+"2020-12-06",region,E12000006,East of England,1301,37
+"2020-03-26",region,E12000001,North East,97,6
+"2020-12-05",region,E12000006,East of England,1183,35
+"2020-03-25",region,E12000001,North East,76,5
+"2020-09-24",region,E12000007,London,599,6
+"2020-12-04",region,E12000006,East of England,1379,35
+"2020-03-24",region,E12000001,North East,76,1
+"2020-12-03",region,E12000006,East of England,1339,32
+"2020-09-23",region,E12000007,London,658,13
+"2020-03-23",region,E12000001,North East,58,4
+"2020-12-02",region,E12000006,East of England,1439,28
+"2020-03-22",region,E12000001,North East,20,6
+"2020-09-22",region,E12000007,London,521,10
+"2020-03-21",region,E12000001,North East,23,3
+"2020-03-20",region,E12000001,North East,26,3
+"2020-09-21",region,E12000007,London,428,8
+"2020-12-01",region,E12000006,East of England,1284,38
+"2020-03-19",region,E12000001,North East,19,1
+"2020-09-20",region,E12000007,London,410,14
+"2020-11-30",region,E12000006,East of England,1512,40
+"2020-03-18",region,E12000001,North East,14,1
+"2020-09-19",region,E12000007,London,339,9
+"2020-11-29",region,E12000006,East of England,769,21
+"2020-03-17",region,E12000001,North East,16,0
+"2020-11-28",region,E12000006,East of England,806,34
+"2020-09-18",region,E12000007,London,386,5
+"2020-03-16",region,E12000001,North East,7,0
+"2020-11-27",region,E12000006,East of England,1132,28
+"2020-03-15",region,E12000001,North East,10,1
+"2020-09-17",region,E12000007,London,323,11
+"2020-11-26",region,E12000006,East of England,1030,27
+"2020-03-14",region,E12000001,North East,6,
+"2020-09-16",region,E12000007,London,293,5
+"2020-11-25",region,E12000006,East of England,1203,37
+"2020-03-13",region,E12000001,North East,6,
+"2020-09-15",region,E12000007,London,269,7
+"2020-11-24",region,E12000006,East of England,1029,29
+"2020-03-12",region,E12000001,North East,2,
+"2020-09-14",region,E12000007,London,300,3
+"2020-11-23",region,E12000006,East of England,1235,26
+"2020-03-11",region,E12000001,North East,1,
+"2020-09-13",region,E12000007,London,112,5
+"2020-11-22",region,E12000006,East of England,804,29
+"2020-03-10",region,E12000001,North East,4,
+"2020-11-21",region,E12000006,East of England,801,32
+"2020-09-12",region,E12000007,London,230,1
+"2020-03-09",region,E12000001,North East,3,
+"2020-11-20",region,E12000006,East of England,1057,23
+"2020-09-11",region,E12000007,London,332,5
+"2020-03-08",region,E12000001,North East,0,
+"2020-09-10",region,E12000007,London,392,5
+"2020-11-19",region,E12000006,East of England,1180,32
+"2020-09-09",region,E12000007,London,343,2
+"2020-03-07",region,E12000001,North East,2,
+"2020-11-18",region,E12000006,East of England,1252,22
+"2020-09-08",region,E12000007,London,343,1
+"2020-03-06",region,E12000001,North East,1,
+"2020-11-17",region,E12000006,East of England,1320,27
+"2020-03-05",region,E12000001,North East,2,
+"2020-09-07",region,E12000007,London,463,3
+"2020-11-16",region,E12000006,East of England,1592,24
+"2020-03-04",region,E12000001,North East,1,
+"2020-09-06",region,E12000007,London,205,5
+"2020-11-15",region,E12000006,East of England,914,18
+"2020-03-03",region,E12000001,North East,0,
+"2020-09-05",region,E12000007,London,270,6
+"2020-11-14",region,E12000006,East of England,984,29
+"2020-03-02",region,E12000001,North East,1,
+"2020-09-04",region,E12000007,London,354,4
+"2020-09-03",region,E12000007,London,347,4
+"2020-09-02",region,E12000007,London,334,1
+"2020-11-13",region,E12000006,East of England,1364,20
+"2020-11-12",region,E12000006,East of England,1376,22
+"2020-09-01",region,E12000007,London,314,8
+"2020-11-11",region,E12000006,East of England,1609,26
+"2020-11-10",region,E12000006,East of England,1458,27
+"2020-08-31",region,E12000007,London,216,7
+"2020-11-09",region,E12000006,East of England,1798,30
+"2020-08-30",region,E12000007,London,133,1
+"2020-08-29",region,E12000007,London,139,4
+"2020-08-28",region,E12000007,London,221,3
+"2020-08-27",region,E12000007,London,229,2
+"2020-08-26",region,E12000007,London,164,4
+"2020-08-25",region,E12000007,London,170,6
+"2020-08-24",region,E12000007,London,195,3
+"2020-11-08",region,E12000006,East of England,1078,26
+"2020-08-23",region,E12000007,London,142,3
+"2020-11-07",region,E12000006,East of England,1008,18
+"2020-11-06",region,E12000006,East of England,1107,27
+"2020-11-05",region,E12000006,East of England,1116,27
+"2020-11-04",region,E12000006,East of England,1044,17
+"2020-11-03",region,E12000006,East of England,1144,20
+"2020-11-02",region,E12000006,East of England,1374,14
+"2020-11-01",region,E12000006,East of England,634,21
+"2020-10-31",region,E12000006,East of England,721,24
+"2020-10-30",region,E12000006,East of England,994,21
+"2020-10-29",region,E12000006,East of England,974,21
+"2020-08-22",region,E12000007,London,118,5
+"2020-10-28",region,E12000006,East of England,1018,19
+"2020-08-21",region,E12000007,London,167,3
+"2020-10-27",region,E12000006,East of England,937,12
+"2020-10-26",region,E12000006,East of England,1146,12
+"2020-10-25",region,E12000006,East of England,569,18
+"2020-10-24",region,E12000006,East of England,599,10
+"2020-10-23",region,E12000006,East of England,992,20
+"2020-10-22",region,E12000006,East of England,996,15
+"2020-10-21",region,E12000006,East of England,1043,25
+"2020-10-20",region,E12000006,East of England,1094,19
+"2020-10-19",region,E12000006,East of England,1036,14
+"2020-10-18",region,E12000006,East of England,585,8
+"2020-10-17",region,E12000006,East of England,508,11
+"2020-10-16",region,E12000006,East of England,659,13
+"2020-10-15",region,E12000006,East of England,847,11
+"2020-08-20",region,E12000007,London,204,6
+"2020-10-14",region,E12000006,East of England,680,5
+"2020-10-13",region,E12000006,East of England,732,7
+"2020-08-19",region,E12000007,London,152,1
+"2020-08-18",region,E12000007,London,181,6
+"2020-08-17",region,E12000007,London,189,5
+"2020-10-12",region,E12000006,East of England,703,6
+"2020-10-11",region,E12000006,East of England,378,7
+"2020-10-10",region,E12000006,East of England,331,11
+"2020-10-09",region,E12000006,East of England,565,8
+"2020-10-08",region,E12000006,East of England,579,8
+"2020-08-16",region,E12000007,London,88,5
+"2020-10-07",region,E12000006,East of England,539,11
+"2020-08-15",region,E12000007,London,106,7
+"2020-10-06",region,E12000006,East of England,565,8
+"2020-08-14",region,E12000007,London,126,3
+"2020-08-13",region,E12000007,London,124,7
+"2020-08-12",region,E12000007,London,161,9
+"2020-08-11",region,E12000007,London,149,7
+"2020-08-10",region,E12000007,London,143,9
+"2020-10-05",region,E12000006,East of England,531,5
+"2020-10-04",region,E12000006,East of England,359,2
+"2020-10-03",region,E12000006,East of England,359,7
+"2020-08-09",region,E12000007,London,67,4
+"2020-10-02",region,E12000006,East of England,412,6
+"2020-10-01",region,E12000006,East of England,360,9
+"2020-08-08",region,E12000007,London,55,9
+"2020-09-30",region,E12000006,East of England,359,7
+"2020-08-07",region,E12000007,London,122,3
+"2020-09-29",region,E12000006,East of England,333,7
+"2020-08-06",region,E12000007,London,103,5
+"2020-09-28",region,E12000006,East of England,312,12
+"2020-09-27",region,E12000006,East of England,209,4
+"2020-08-05",region,E12000007,London,113,2
+"2020-09-26",region,E12000006,East of England,166,1
+"2020-08-04",region,E12000007,London,104,3
+"2020-09-25",region,E12000006,East of England,216,7
+"2020-08-03",region,E12000007,London,87,3
+"2020-09-24",region,E12000006,East of England,227,7
+"2020-08-02",region,E12000007,London,76,4
+"2020-09-23",region,E12000006,East of England,193,5
+"2020-08-01",region,E12000007,London,58,8
+"2020-09-22",region,E12000006,East of England,214,4
+"2020-09-21",region,E12000006,East of England,166,6
+"2020-07-31",region,E12000007,London,73,7
+"2020-09-20",region,E12000006,East of England,163,6
+"2020-07-30",region,E12000007,London,102,3
+"2020-09-19",region,E12000006,East of England,146,6
+"2020-07-29",region,E12000007,London,99,4
+"2020-09-18",region,E12000006,East of England,206,11
+"2020-07-28",region,E12000007,London,100,5
+"2020-09-17",region,E12000006,East of England,145,4
+"2020-09-16",region,E12000006,East of England,142,6
+"2020-07-27",region,E12000007,London,100,5
+"2020-09-15",region,E12000006,East of England,150,8
+"2020-07-26",region,E12000007,London,65,2
+"2020-09-14",region,E12000006,East of England,142,9
+"2020-07-25",region,E12000007,London,56,7
+"2020-09-13",region,E12000006,East of England,57,5
+"2020-09-12",region,E12000006,East of England,83,4
+"2020-07-24",region,E12000007,London,83,1
+"2020-09-11",region,E12000006,East of England,129,3
+"2020-09-10",region,E12000006,East of England,164,3
+"2020-09-09",region,E12000006,East of England,127,10
+"2020-09-08",region,E12000006,East of England,167,9
+"2020-09-07",region,E12000006,East of England,154,7
+"2020-09-06",region,E12000006,East of England,79,3
+"2020-09-05",region,E12000006,East of England,97,7
+"2020-07-23",region,E12000007,London,71,8
+"2020-09-04",region,E12000006,East of England,120,5
+"2020-09-03",region,E12000006,East of England,152,7
+"2020-09-02",region,E12000006,East of England,171,10
+"2020-09-01",region,E12000006,East of England,124,7
+"2020-08-31",region,E12000006,East of England,101,10
+"2020-08-30",region,E12000006,East of England,88,7
+"2020-08-29",region,E12000006,East of England,80,4
+"2020-07-22",region,E12000007,London,81,8
+"2020-08-28",region,E12000006,East of England,102,7
+"2020-07-21",region,E12000007,London,82,4
+"2020-08-27",region,E12000006,East of England,121,8
+"2020-07-20",region,E12000007,London,97,3
+"2020-08-26",region,E12000006,East of England,93,8
+"2020-07-19",region,E12000007,London,41,7
+"2020-07-18",region,E12000007,London,48,3
+"2020-07-17",region,E12000007,London,48,9
+"2020-07-16",region,E12000007,London,70,4
+"2020-07-15",region,E12000007,London,76,4
+"2020-07-14",region,E12000007,London,62,5
+"2020-08-25",region,E12000006,East of England,100,5
+"2020-08-24",region,E12000006,East of England,102,2
+"2020-08-23",region,E12000006,East of England,52,5
+"2020-07-13",region,E12000007,London,85,8
+"2020-08-22",region,E12000006,East of England,50,2
+"2020-07-12",region,E12000007,London,38,6
+"2020-08-21",region,E12000006,East of England,63,3
+"2020-07-11",region,E12000007,London,19,9
+"2020-08-20",region,E12000006,East of England,82,6
+"2020-07-10",region,E12000007,London,40,5
+"2020-07-09",region,E12000007,London,54,6
+"2020-08-19",region,E12000006,East of England,63,5
+"2020-08-18",region,E12000006,East of England,59,6
+"2020-07-08",region,E12000007,London,57,8
+"2020-08-17",region,E12000006,East of England,63,3
+"2020-07-07",region,E12000007,London,61,5
+"2020-07-06",region,E12000007,London,54,6
+"2020-08-16",region,E12000006,East of England,27,4
+"2020-07-05",region,E12000007,London,51,14
+"2020-07-04",region,E12000007,London,32,5
+"2020-08-15",region,E12000006,East of England,31,12
+"2020-07-03",region,E12000007,London,38,10
+"2020-08-14",region,E12000006,East of England,67,6
+"2020-07-02",region,E12000007,London,40,5
+"2020-08-13",region,E12000006,East of England,61,3
+"2020-08-12",region,E12000006,East of England,66,14
+"2020-07-01",region,E12000007,London,42,12
+"2020-08-11",region,E12000006,East of England,48,9
+"2020-06-30",region,E12000007,London,52,6
+"2020-08-10",region,E12000006,East of England,67,6
+"2020-06-29",region,E12000007,London,58,7
+"2020-08-09",region,E12000006,East of England,23,5
+"2020-08-08",region,E12000006,East of England,44,5
+"2020-08-07",region,E12000006,East of England,68,5
+"2020-08-06",region,E12000006,East of England,44,6
+"2020-06-28",region,E12000007,London,22,4
+"2020-08-05",region,E12000006,East of England,54,2
+"2020-08-04",region,E12000006,East of England,56,11
+"2020-06-27",region,E12000007,London,32,5
+"2020-06-26",region,E12000007,London,48,9
+"2020-08-03",region,E12000006,East of England,68,5
+"2020-06-25",region,E12000007,London,57,12
+"2020-08-02",region,E12000006,East of England,36,2
+"2020-06-24",region,E12000007,London,46,8
+"2020-06-23",region,E12000007,London,49,9
+"2020-08-01",region,E12000006,East of England,22,5
+"2020-06-22",region,E12000007,London,51,9
+"2020-06-21",region,E12000007,London,27,5
+"2020-06-20",region,E12000007,London,29,9
+"2020-06-19",region,E12000007,London,37,12
+"2020-06-18",region,E12000007,London,46,7
+"2020-06-17",region,E12000007,London,42,5
+"2020-06-16",region,E12000007,London,46,5
+"2020-06-15",region,E12000007,London,41,6
+"2020-07-31",region,E12000006,East of England,31,9
+"2020-06-14",region,E12000007,London,31,10
+"2020-07-30",region,E12000006,East of England,52,7
+"2020-06-13",region,E12000007,London,39,6
+"2020-07-29",region,E12000006,East of England,66,9
+"2020-07-28",region,E12000006,East of England,56,3
+"2020-06-12",region,E12000007,London,53,14
+"2020-07-27",region,E12000006,East of England,65,6
+"2020-06-11",region,E12000007,London,47,11
+"2020-07-26",region,E12000006,East of England,26,7
+"2020-06-10",region,E12000007,London,52,11
+"2020-07-25",region,E12000006,East of England,28,5
+"2020-06-09",region,E12000007,London,71,13
+"2020-07-24",region,E12000006,East of England,79,6
+"2020-06-08",region,E12000007,London,56,13
+"2020-07-23",region,E12000006,East of England,50,3
+"2020-06-07",region,E12000007,London,45,14
+"2020-07-22",region,E12000006,East of England,54,13
+"2020-06-06",region,E12000007,London,46,4
+"2020-07-21",region,E12000006,East of England,66,0
+"2020-06-05",region,E12000007,London,45,6
+"2020-07-20",region,E12000006,East of England,81,10
+"2020-06-04",region,E12000007,London,57,17
+"2020-07-19",region,E12000006,East of England,21,4
+"2020-06-03",region,E12000007,London,79,15
+"2020-07-18",region,E12000006,East of England,28,6
+"2020-06-02",region,E12000007,London,49,15
+"2020-07-17",region,E12000006,East of England,51,7
+"2020-06-01",region,E12000007,London,49,17
+"2020-07-16",region,E12000006,East of England,61,4
+"2020-05-31",region,E12000007,London,38,15
+"2020-07-15",region,E12000006,East of England,55,8
+"2020-07-14",region,E12000006,East of England,81,11
+"2020-05-30",region,E12000007,London,39,18
+"2020-07-13",region,E12000006,East of England,64,15
+"2020-05-29",region,E12000007,London,56,14
+"2020-07-12",region,E12000006,East of England,35,6
+"2020-05-28",region,E12000007,London,75,14
+"2020-07-11",region,E12000006,East of England,42,11
+"2020-05-27",region,E12000007,London,85,18
+"2020-07-10",region,E12000006,East of England,49,6
+"2020-05-26",region,E12000007,London,66,20
+"2020-07-09",region,E12000006,East of England,54,19
+"2020-07-08",region,E12000006,East of England,77,9
+"2020-05-25",region,E12000007,London,58,18
+"2020-07-07",region,E12000006,East of England,39,8
+"2020-05-24",region,E12000007,London,50,9
+"2020-07-06",region,E12000006,East of England,56,11
+"2020-05-23",region,E12000007,London,65,16
+"2020-07-05",region,E12000006,East of England,36,7
+"2020-05-22",region,E12000007,London,83,16
+"2020-07-04",region,E12000006,East of England,42,11
+"2020-05-21",region,E12000007,London,158,22
+"2020-07-03",region,E12000006,East of England,60,7
+"2020-05-20",region,E12000007,London,143,30
+"2020-07-02",region,E12000006,East of England,63,12
+"2020-05-19",region,E12000007,London,128,26
+"2020-07-01",region,E12000006,East of England,39,6
+"2020-06-30",region,E12000006,East of England,34,9
+"2020-05-18",region,E12000007,London,111,22
+"2020-06-29",region,E12000006,East of England,49,14
+"2020-06-28",region,E12000006,East of England,25,17
+"2020-06-27",region,E12000006,East of England,20,12
+"2020-05-17",region,E12000007,London,79,22
+"2020-06-26",region,E12000006,East of England,59,15
+"2020-05-16",region,E12000007,London,75,20
+"2020-06-25",region,E12000006,East of England,38,12
+"2020-05-15",region,E12000007,London,132,26
+"2020-06-24",region,E12000006,East of England,61,13
+"2020-05-14",region,E12000007,London,158,29
+"2020-06-23",region,E12000006,East of England,44,11
+"2020-06-22",region,E12000006,East of England,74,14
+"2020-05-13",region,E12000007,London,204,22
+"2020-06-21",region,E12000006,East of England,57,10
+"2020-05-12",region,E12000007,London,193,29
+"2020-06-20",region,E12000006,East of England,31,9
+"2020-06-19",region,E12000006,East of England,74,15
+"2020-06-18",region,E12000006,East of England,83,6
+"2020-06-17",region,E12000006,East of England,77,17
+"2020-05-11",region,E12000007,London,160,39
+"2020-06-16",region,E12000006,East of England,107,12
+"2020-06-15",region,E12000006,East of England,113,14
+"2020-05-10",region,E12000007,London,125,35
+"2020-06-14",region,E12000006,East of England,73,17
+"2020-05-09",region,E12000007,London,128,33
+"2020-06-13",region,E12000006,East of England,89,12
+"2020-05-08",region,E12000007,London,206,39
+"2020-06-12",region,E12000006,East of England,65,18
+"2020-06-11",region,E12000006,East of England,71,8
+"2020-05-07",region,E12000007,London,272,45
+"2020-06-10",region,E12000006,East of England,118,20
+"2020-05-06",region,E12000007,London,268,47
+"2020-06-09",region,E12000006,East of England,130,19
+"2020-05-05",region,E12000007,London,216,42
+"2020-06-08",region,E12000006,East of England,93,15
+"2020-06-07",region,E12000006,East of England,46,19
+"2020-05-04",region,E12000007,London,246,50
+"2020-06-06",region,E12000006,East of England,93,13
+"2020-05-03",region,E12000007,London,168,50
+"2020-06-05",region,E12000006,East of England,110,25
+"2020-05-02",region,E12000007,London,248,65
+"2020-06-04",region,E12000006,East of England,93,19
+"2020-05-01",region,E12000007,London,355,49
+"2020-06-03",region,E12000006,East of England,123,18
+"2020-04-30",region,E12000007,London,423,50
+"2020-06-02",region,E12000006,East of England,130,26
+"2020-06-01",region,E12000006,East of England,138,24
+"2020-04-29",region,E12000007,London,428,56
+"2020-05-31",region,E12000006,East of England,61,17
+"2020-04-28",region,E12000007,London,311,69
+"2020-05-30",region,E12000006,East of England,83,21
+"2020-04-27",region,E12000007,London,419,59
+"2020-04-26",region,E12000007,London,311,67
+"2020-05-29",region,E12000006,East of England,160,30
+"2020-05-28",region,E12000006,East of England,164,28
+"2020-04-25",region,E12000007,London,333,65
+"2020-05-27",region,E12000006,East of England,150,24
+"2020-05-26",region,E12000006,East of England,150,26
+"2020-05-25",region,E12000006,East of England,147,40
+"2020-05-24",region,E12000006,East of England,103,29
+"2020-05-23",region,E12000006,East of England,150,29
+"2020-05-22",region,E12000006,East of England,190,24
+"2020-05-21",region,E12000006,East of England,246,29
+"2020-05-20",region,E12000006,East of England,243,46
+"2020-05-19",region,E12000006,East of England,256,25
+"2020-04-24",region,E12000007,London,377,86
+"2020-05-18",region,E12000006,East of England,285,44
+"2020-05-17",region,E12000006,East of England,154,39
+"2020-05-16",region,E12000006,East of England,174,39
+"2020-05-15",region,E12000006,East of England,209,36
+"2020-05-14",region,E12000006,East of England,217,40
+"2020-05-13",region,E12000006,East of England,330,40
+"2020-04-23",region,E12000007,London,522,87
+"2020-05-12",region,E12000006,East of England,315,38
+"2020-05-11",region,E12000006,East of England,392,28
+"2020-04-22",region,E12000007,London,401,114
+"2020-05-10",region,E12000006,East of England,209,41
+"2020-04-21",region,E12000007,London,464,104
+"2020-05-09",region,E12000006,East of England,203,46
+"2020-04-20",region,E12000007,London,435,100
+"2020-05-08",region,E12000006,East of England,229,40
+"2020-04-19",region,E12000007,London,395,117
+"2020-05-07",region,E12000006,East of England,396,53
+"2020-05-06",region,E12000006,East of England,388,53
+"2020-04-18",region,E12000007,London,399,119
+"2020-05-05",region,E12000006,East of England,330,54
+"2020-04-17",region,E12000007,London,580,110
+"2020-05-04",region,E12000006,East of England,392,38
+"2020-05-03",region,E12000006,East of England,317,57
+"2020-04-16",region,E12000007,London,576,142
+"2020-05-02",region,E12000006,East of England,302,42
+"2020-05-01",region,E12000006,East of England,493,75
+"2020-04-15",region,E12000007,London,658,146
+"2020-04-30",region,E12000006,East of England,424,72
+"2020-04-14",region,E12000007,London,596,144
+"2020-04-29",region,E12000006,East of England,475,47
+"2020-04-13",region,E12000007,London,602,170
+"2020-04-28",region,E12000006,East of England,463,71
+"2020-04-12",region,E12000007,London,501,170
+"2020-04-27",region,E12000006,East of England,511,61
+"2020-04-26",region,E12000006,East of England,358,67
+"2020-04-25",region,E12000006,East of England,377,60
+"2020-04-11",region,E12000007,London,521,166
+"2020-04-10",region,E12000007,London,620,175
+"2020-04-24",region,E12000006,East of England,423,89
+"2020-04-23",region,E12000006,East of England,475,60
+"2020-04-09",region,E12000007,London,802,198
+"2020-04-22",region,E12000006,East of England,522,76
+"2020-04-21",region,E12000006,East of England,407,79
+"2020-04-08",region,E12000007,London,874,231
+"2020-04-20",region,E12000006,East of England,362,73
+"2020-04-07",region,E12000007,London,953,222
+"2020-04-19",region,E12000006,East of England,317,76
+"2020-04-18",region,E12000006,East of England,329,77
+"2020-04-06",region,E12000007,London,860,195
+"2020-04-17",region,E12000006,East of England,365,87
+"2020-04-16",region,E12000006,East of England,337,85
+"2020-04-05",region,E12000007,London,633,196
+"2020-04-15",region,E12000006,East of England,294,86
+"2020-04-14",region,E12000006,East of England,289,73
+"2020-04-04",region,E12000007,London,765,225
+"2020-04-13",region,E12000006,East of England,292,82
+"2020-04-03",region,E12000007,London,983,190
+"2020-04-12",region,E12000006,East of England,261,101
+"2020-04-11",region,E12000006,East of England,271,103
+"2020-04-02",region,E12000007,London,1069,195
+"2020-04-10",region,E12000006,East of England,319,71
+"2020-04-01",region,E12000007,London,979,189
+"2020-04-09",region,E12000006,East of England,326,96
+"2020-03-31",region,E12000007,London,936,178
+"2020-04-08",region,E12000006,East of England,408,114
+"2020-03-30",region,E12000007,London,867,151
+"2020-04-07",region,E12000006,East of England,389,111
+"2020-03-29",region,E12000007,London,597,142
+"2020-04-06",region,E12000006,East of England,385,76
+"2020-03-28",region,E12000007,London,577,120
+"2020-04-05",region,E12000006,East of England,281,90
+"2020-03-27",region,E12000007,London,818,126
+"2020-04-04",region,E12000006,East of England,269,71
+"2020-04-03",region,E12000006,East of England,353,86
+"2020-03-26",region,E12000007,London,767,123
+"2020-04-02",region,E12000006,East of England,372,70
+"2020-03-25",region,E12000007,London,759,116
+"2020-04-01",region,E12000006,East of England,333,74
+"2020-03-31",region,E12000006,East of England,322,73
+"2020-03-24",region,E12000007,London,635,88
+"2020-03-30",region,E12000006,East of England,301,49
+"2020-03-23",region,E12000007,London,689,56
+"2020-03-29",region,E12000006,East of England,209,49
+"2020-03-22",region,E12000007,London,438,53
+"2020-03-28",region,E12000006,East of England,183,37
+"2020-03-21",region,E12000007,London,351,47
+"2020-03-27",region,E12000006,East of England,243,40
+"2021-01-17",region,E12000004,East Midlands,313,16
+"2020-03-20",region,E12000007,London,426,45
+"2020-03-26",region,E12000006,East of England,215,34
+"2020-03-25",region,E12000006,East of England,188,22
+"2021-01-16",region,E12000004,East Midlands,1742,44
+"2020-03-19",region,E12000007,London,332,25
+"2020-03-24",region,E12000006,East of England,164,22
+"2021-01-15",region,E12000004,East Midlands,2548,56
+"2020-03-18",region,E12000007,London,355,26
+"2020-03-23",region,E12000006,East of England,195,13
+"2021-01-14",region,E12000004,East Midlands,2742,81
+"2020-03-22",region,E12000006,East of England,91,13
+"2020-03-17",region,E12000007,London,311,23
+"2021-01-13",region,E12000004,East Midlands,2811,102
+"2020-03-21",region,E12000006,East of England,76,9
+"2020-03-16",region,E12000007,London,234,15
+"2020-03-20",region,E12000006,East of England,72,2
+"2021-01-12",region,E12000004,East Midlands,3237,82
+"2020-03-15",region,E12000007,London,165,9
+"2020-03-19",region,E12000006,East of England,56,5
+"2021-01-11",region,E12000004,East Midlands,3510,81
+"2020-03-14",region,E12000007,London,150,11
+"2020-03-18",region,E12000006,East of England,74,3
+"2020-03-17",region,E12000006,East of England,39,2
+"2020-03-13",region,E12000007,London,135,6
+"2021-01-10",region,E12000004,East Midlands,2156,56
+"2020-03-16",region,E12000006,East of England,24,2
+"2020-03-12",region,E12000007,London,164,6
+"2021-01-09",region,E12000004,East Midlands,2299,87
+"2020-03-15",region,E12000006,East of England,35,2
+"2021-01-08",region,E12000004,East Midlands,2791,76
+"2020-03-11",region,E12000007,London,183,4
+"2020-03-14",region,E12000006,East of England,16,0
+"2020-03-13",region,E12000006,East of England,37,1
+"2021-01-07",region,E12000004,East Midlands,2960,65
+"2020-03-10",region,E12000007,London,92,1
+"2020-03-12",region,E12000006,East of England,18,0
+"2021-01-06",region,E12000004,East Midlands,3185,67
+"2020-03-09",region,E12000007,London,53,2
+"2020-03-11",region,E12000006,East of England,14,0
+"2020-03-08",region,E12000007,London,22,
+"2021-01-05",region,E12000004,East Midlands,3495,71
+"2020-03-10",region,E12000006,East of England,16,0
+"2020-03-07",region,E12000007,London,15,
+"2020-03-09",region,E12000006,East of England,5,1
+"2021-01-04",region,E12000004,East Midlands,4293,69
+"2020-03-08",region,E12000006,East of England,2,0
+"2020-03-06",region,E12000007,London,24,
+"2021-01-03",region,E12000004,East Midlands,2994,56
+"2020-03-07",region,E12000006,East of England,3,0
+"2020-03-05",region,E12000007,London,14,
+"2020-03-06",region,E12000006,East of England,5,0
+"2021-01-02",region,E12000004,East Midlands,3400,63
+"2020-03-04",region,E12000007,London,18,
+"2020-03-05",region,E12000006,East of England,1,0
+"2021-01-01",region,E12000004,East Midlands,1660,53
+"2020-03-03",region,E12000007,London,6,
+"2020-03-04",region,E12000006,East of England,7,0
+"2020-12-31",region,E12000004,East Midlands,2972,68
+"2020-03-03",region,E12000006,East of England,7,0
+"2020-03-02",region,E12000007,London,12,
+"2020-12-30",region,E12000004,East Midlands,3613,77
+"2020-03-02",region,E12000006,East of England,0,1
+"2020-03-01",region,E12000007,London,4,
+"2020-03-01",region,E12000006,East of England,1,
+"2020-12-29",region,E12000004,East Midlands,3961,59
+"2020-02-29",region,E12000006,East of England,0,
+"2020-02-29",region,E12000007,London,1,
+"2020-12-28",region,E12000004,East Midlands,2489,42
+"2020-02-28",region,E12000007,London,3,
+"2020-02-28",region,E12000006,East of England,2,
+"2020-12-27",region,E12000004,East Midlands,2393,63
+"2020-02-27",region,E12000006,East of England,1,
+"2020-02-27",region,E12000007,London,2,
+"2020-02-26",region,E12000006,East of England,1,
+"2020-12-26",region,E12000004,East Midlands,1861,59
+"2020-02-26",region,E12000007,London,2,
+"2020-12-25",region,E12000004,East Midlands,695,62
+"2020-02-25",region,E12000007,London,3,
+"2020-12-24",region,E12000004,East Midlands,1433,42
+"2020-02-24",region,E12000007,London,1,
+"2020-12-23",region,E12000004,East Midlands,2009,57
+"2020-02-23",region,E12000007,London,0,
+"2020-02-22",region,E12000007,London,0,
+"2020-12-22",region,E12000004,East Midlands,2074,63
+"2020-12-21",region,E12000004,East Midlands,2390,73
+"2020-02-21",region,E12000007,London,0,
+"2020-12-20",region,E12000004,East Midlands,1692,59
+"2020-02-20",region,E12000007,London,0,
+"2020-02-19",region,E12000007,London,0,
+"2020-12-19",region,E12000004,East Midlands,1332,44
+"2020-02-18",region,E12000007,London,0,
+"2020-12-18",region,E12000004,East Midlands,1701,71
+"2020-02-17",region,E12000007,London,0,
+"2020-12-17",region,E12000004,East Midlands,1678,59
+"2020-02-16",region,E12000007,London,0,
+"2020-12-16",region,E12000004,East Midlands,1683,48
+"2020-02-15",region,E12000007,London,0,
+"2020-12-15",region,E12000004,East Midlands,1719,53
+"2020-02-14",region,E12000007,London,0,
+"2020-12-14",region,E12000004,East Midlands,2041,61
+"2020-12-13",region,E12000004,East Midlands,1044,55
+"2020-12-12",region,E12000004,East Midlands,1029,60
+"2020-12-11",region,E12000004,East Midlands,1433,59
+"2020-02-13",region,E12000007,London,0,
+"2020-12-10",region,E12000004,East Midlands,1435,50
+"2020-12-09",region,E12000004,East Midlands,1413,53
+"2020-02-12",region,E12000007,London,0,
+"2020-12-08",region,E12000004,East Midlands,1408,41
+"2020-02-11",region,E12000007,London,1,
+"2020-02-10",region,E12000007,London,0,
+"2020-12-07",region,E12000004,East Midlands,1566,63
+"2020-12-06",region,E12000004,East Midlands,955,53
+"2020-02-09",region,E12000007,London,0,
+"2020-12-05",region,E12000004,East Midlands,855,54
+"2020-02-08",region,E12000007,London,0,
+"2020-12-04",region,E12000004,East Midlands,1097,59
+"2020-02-07",region,E12000007,London,0,
+"2020-12-03",region,E12000004,East Midlands,1238,62
+"2020-02-06",region,E12000007,London,0,
+"2020-12-02",region,E12000004,East Midlands,1258,58
+"2020-02-05",region,E12000007,London,0,
+"2020-12-01",region,E12000004,East Midlands,1269,66
+"2020-02-04",region,E12000007,London,0,
+"2020-11-30",region,E12000004,East Midlands,1442,52
+"2020-02-03",region,E12000007,London,0,
+"2020-11-29",region,E12000004,East Midlands,797,51
+"2020-02-02",region,E12000007,London,0,
+"2020-11-28",region,E12000004,East Midlands,873,61
+"2020-02-01",region,E12000007,London,1,
+"2020-11-27",region,E12000004,East Midlands,1122,58
+"2020-01-31",region,E12000007,London,1,
+"2020-11-26",region,E12000004,East Midlands,1167,55
+"2020-11-25",region,E12000004,East Midlands,1342,61
+"2020-11-24",region,E12000004,East Midlands,1459,54
+"2020-11-23",region,E12000004,East Midlands,1629,56
+"2020-11-22",region,E12000004,East Midlands,1011,61
+"2020-11-21",region,E12000004,East Midlands,1095,43
+"2020-11-20",region,E12000004,East Midlands,1469,50
+"2020-11-19",region,E12000004,East Midlands,1496,55
+"2020-11-18",region,E12000004,East Midlands,1832,64
+"2020-11-17",region,E12000004,East Midlands,2110,51
+"2020-11-16",region,E12000004,East Midlands,2580,49
+"2020-11-15",region,E12000004,East Midlands,1410,46
+"2020-11-14",region,E12000004,East Midlands,1710,51
+"2020-11-13",region,E12000004,East Midlands,2149,47
+"2020-11-12",region,E12000004,East Midlands,2171,48
+"2020-11-11",region,E12000004,East Midlands,2650,34
+"2020-11-10",region,E12000004,East Midlands,2663,39
+"2020-11-09",region,E12000004,East Midlands,2996,59
+"2020-11-08",region,E12000004,East Midlands,2017,46
+"2020-11-07",region,E12000004,East Midlands,1752,35
+"2020-11-06",region,E12000004,East Midlands,2292,36
+"2020-11-05",region,E12000004,East Midlands,2198,37
+"2020-11-04",region,E12000004,East Midlands,2148,43
+"2020-11-03",region,E12000004,East Midlands,2360,27
+"2020-11-02",region,E12000004,East Midlands,3247,42
+"2020-11-01",region,E12000004,East Midlands,1231,35
+"2020-10-31",region,E12000004,East Midlands,1503,30
+"2020-10-30",region,E12000004,East Midlands,2063,30
+"2020-10-29",region,E12000004,East Midlands,2103,23
+"2020-10-28",region,E12000004,East Midlands,2143,33
+"2020-10-27",region,E12000004,East Midlands,2049,30
+"2020-10-26",region,E12000004,East Midlands,2355,24
+"2020-10-25",region,E12000004,East Midlands,1476,26
+"2020-10-24",region,E12000004,East Midlands,1461,24
+"2020-10-23",region,E12000004,East Midlands,1842,32
+"2020-10-22",region,E12000004,East Midlands,2126,30
+"2020-10-21",region,E12000004,East Midlands,2120,17
+"2020-10-20",region,E12000004,East Midlands,2123,19
+"2020-10-19",region,E12000004,East Midlands,2382,13
+"2020-10-18",region,E12000004,East Midlands,1085,9
+"2020-10-17",region,E12000004,East Midlands,1207,19
+"2020-10-16",region,E12000004,East Midlands,1292,11
+"2020-10-15",region,E12000004,East Midlands,1431,15
+"2020-10-14",region,E12000004,East Midlands,1794,12
+"2020-10-13",region,E12000004,East Midlands,1576,15
+"2020-10-12",region,E12000004,East Midlands,1767,10
+"2020-10-11",region,E12000004,East Midlands,1106,14
+"2020-10-10",region,E12000004,East Midlands,1123,7
+"2020-10-09",region,E12000004,East Midlands,1440,8
+"2020-10-08",region,E12000004,East Midlands,1935,2
+"2020-10-07",region,E12000004,East Midlands,1702,6
+"2020-10-06",region,E12000004,East Midlands,1501,7
+"2020-10-05",region,E12000004,East Midlands,1569,7
+"2020-10-04",region,E12000004,East Midlands,1157,9
+"2020-10-03",region,E12000004,East Midlands,1018,12
+"2020-10-02",region,E12000004,East Midlands,1200,7
+"2020-10-01",region,E12000004,East Midlands,1044,8
+"2020-09-30",region,E12000004,East Midlands,871,6
+"2020-09-29",region,E12000004,East Midlands,604,4
+"2020-09-28",region,E12000004,East Midlands,561,6
+"2020-09-27",region,E12000004,East Midlands,396,6
+"2020-09-26",region,E12000004,East Midlands,323,2
+"2020-09-25",region,E12000004,East Midlands,327,5
+"2020-09-24",region,E12000004,East Midlands,334,5
+"2020-09-23",region,E12000004,East Midlands,296,8
+"2020-09-22",region,E12000004,East Midlands,269,6
+"2020-09-21",region,E12000004,East Midlands,292,6
+"2020-09-20",region,E12000004,East Midlands,265,5
+"2020-09-19",region,E12000004,East Midlands,248,6
+"2020-09-18",region,E12000004,East Midlands,259,3
+"2020-09-17",region,E12000004,East Midlands,252,3
+"2020-09-16",region,E12000004,East Midlands,243,6
+"2020-09-15",region,E12000004,East Midlands,206,4
+"2020-09-14",region,E12000004,East Midlands,200,7
+"2020-09-13",region,E12000004,East Midlands,123,3
+"2020-09-12",region,E12000004,East Midlands,141,7
+"2020-09-11",region,E12000004,East Midlands,218,6
+"2020-09-10",region,E12000004,East Midlands,207,4
+"2020-09-09",region,E12000004,East Midlands,252,3
+"2020-09-08",region,E12000004,East Midlands,312,4
+"2020-09-07",region,E12000004,East Midlands,343,5
+"2020-09-06",region,E12000004,East Midlands,135,6
+"2020-09-05",region,E12000004,East Midlands,166,4
+"2020-09-04",region,E12000004,East Midlands,182,7
+"2020-09-03",region,E12000004,East Midlands,234,3
+"2020-09-02",region,E12000004,East Midlands,244,4
+"2020-09-01",region,E12000004,East Midlands,158,7
+"2020-08-31",region,E12000004,East Midlands,87,5
+"2020-08-30",region,E12000004,East Midlands,61,4
+"2020-08-29",region,E12000004,East Midlands,48,2
+"2020-08-28",region,E12000004,East Midlands,95,2
+"2020-08-27",region,E12000004,East Midlands,83,7
+"2020-08-26",region,E12000004,East Midlands,91,2
+"2020-08-25",region,E12000004,East Midlands,73,4
+"2020-08-24",region,E12000004,East Midlands,88,6
+"2020-08-23",region,E12000004,East Midlands,52,1
+"2020-08-22",region,E12000004,East Midlands,49,4
+"2020-08-21",region,E12000004,East Midlands,101,1
+"2020-08-20",region,E12000004,East Midlands,100,2
+"2020-08-19",region,E12000004,East Midlands,101,4
+"2020-08-18",region,E12000004,East Midlands,77,5
+"2020-08-17",region,E12000004,East Midlands,138,4
+"2020-08-16",region,E12000004,East Midlands,58,5
+"2020-08-15",region,E12000004,East Midlands,55,7
+"2020-08-14",region,E12000004,East Midlands,87,2
+"2020-08-13",region,E12000004,East Midlands,109,6
+"2020-08-12",region,E12000004,East Midlands,119,5
+"2020-08-11",region,E12000004,East Midlands,176,5
+"2020-08-10",region,E12000004,East Midlands,210,3
+"2020-08-09",region,E12000004,East Midlands,72,8
+"2020-08-08",region,E12000004,East Midlands,73,3
+"2020-08-07",region,E12000004,East Midlands,91,6
+"2020-08-06",region,E12000004,East Midlands,113,4
+"2020-08-05",region,E12000004,East Midlands,114,3
+"2020-08-04",region,E12000004,East Midlands,88,4
+"2020-08-03",region,E12000004,East Midlands,108,5
+"2020-08-02",region,E12000004,East Midlands,54,10
+"2020-08-01",region,E12000004,East Midlands,69,11
+"2020-07-31",region,E12000004,East Midlands,75,7
+"2020-07-30",region,E12000004,East Midlands,110,4
+"2020-07-29",region,E12000004,East Midlands,108,1
+"2020-07-28",region,E12000004,East Midlands,77,4
+"2020-07-27",region,E12000004,East Midlands,92,5
+"2020-07-26",region,E12000004,East Midlands,38,10
+"2020-07-25",region,E12000004,East Midlands,44,5
+"2020-07-24",region,E12000004,East Midlands,82,4
+"2020-07-23",region,E12000004,East Midlands,94,10
+"2020-07-22",region,E12000004,East Midlands,88,7
+"2020-07-21",region,E12000004,East Midlands,68,8
+"2020-07-20",region,E12000004,East Midlands,82,11
+"2020-07-19",region,E12000004,East Midlands,48,9
+"2020-07-18",region,E12000004,East Midlands,63,5
+"2020-07-17",region,E12000004,East Midlands,80,8
+"2020-07-16",region,E12000004,East Midlands,92,8
+"2020-07-15",region,E12000004,East Midlands,114,9
+"2020-07-14",region,E12000004,East Midlands,89,4
+"2020-07-13",region,E12000004,East Midlands,104,7
+"2020-07-12",region,E12000004,East Midlands,46,8
+"2020-07-11",region,E12000004,East Midlands,94,13
+"2020-07-10",region,E12000004,East Midlands,99,5
+"2020-07-09",region,E12000004,East Midlands,95,8
+"2020-07-08",region,E12000004,East Midlands,110,9
+"2020-07-07",region,E12000004,East Midlands,108,8
+"2020-07-06",region,E12000004,East Midlands,139,8
+"2020-07-05",region,E12000004,East Midlands,127,8
+"2020-07-04",region,E12000004,East Midlands,85,6
+"2020-07-03",region,E12000004,East Midlands,107,6
+"2020-07-02",region,E12000004,East Midlands,105,11
+"2020-07-01",region,E12000004,East Midlands,120,11
+"2020-06-30",region,E12000004,East Midlands,129,7
+"2020-06-29",region,E12000004,East Midlands,129,12
+"2020-06-28",region,E12000004,East Midlands,78,6
+"2020-06-27",region,E12000004,East Midlands,87,9
+"2020-06-26",region,E12000004,East Midlands,114,15
+"2020-06-25",region,E12000004,East Midlands,125,19
+"2020-06-24",region,E12000004,East Midlands,173,15
+"2020-06-23",region,E12000004,East Midlands,171,9
+"2020-06-22",region,E12000004,East Midlands,177,11
+"2020-06-21",region,E12000004,East Midlands,131,18
+"2020-06-20",region,E12000004,East Midlands,142,15
+"2020-06-19",region,E12000004,East Midlands,153,12
+"2020-06-18",region,E12000004,East Midlands,169,17
+"2020-06-17",region,E12000004,East Midlands,164,12
+"2020-06-16",region,E12000004,East Midlands,161,13
+"2020-06-15",region,E12000004,East Midlands,167,20
+"2020-06-14",region,E12000004,East Midlands,145,20
+"2020-06-13",region,E12000004,East Midlands,132,10
+"2020-06-12",region,E12000004,East Midlands,173,20
+"2020-06-11",region,E12000004,East Midlands,182,22
+"2020-06-10",region,E12000004,East Midlands,166,19
+"2020-06-09",region,E12000004,East Midlands,177,19
+"2020-06-08",region,E12000004,East Midlands,174,24
+"2020-06-07",region,E12000004,East Midlands,127,14
+"2020-06-06",region,E12000004,East Midlands,105,23
+"2020-06-05",region,E12000004,East Midlands,152,11
+"2020-06-04",region,E12000004,East Midlands,143,21
+"2020-06-03",region,E12000004,East Midlands,173,22
+"2020-06-02",region,E12000004,East Midlands,218,16
+"2020-06-01",region,E12000004,East Midlands,218,22
+"2020-05-31",region,E12000004,East Midlands,150,20
+"2020-05-30",region,E12000004,East Midlands,139,24
+"2020-05-29",region,E12000004,East Midlands,171,13
+"2020-05-28",region,E12000004,East Midlands,191,22
+"2020-05-27",region,E12000004,East Midlands,197,23
+"2020-05-26",region,E12000004,East Midlands,160,26
+"2020-05-25",region,E12000004,East Midlands,192,25
+"2020-05-24",region,E12000004,East Midlands,145,17
+"2020-05-23",region,E12000004,East Midlands,164,33
+"2020-05-22",region,E12000004,East Midlands,240,24
+"2020-05-21",region,E12000004,East Midlands,281,34
+"2020-05-20",region,E12000004,East Midlands,275,25
+"2020-05-19",region,E12000004,East Midlands,293,25
+"2020-05-18",region,E12000004,East Midlands,272,31
+"2020-05-17",region,E12000004,East Midlands,204,19
+"2020-05-16",region,E12000004,East Midlands,256,26
+"2020-05-15",region,E12000004,East Midlands,252,22
+"2020-05-14",region,E12000004,East Midlands,226,31
+"2020-05-13",region,E12000004,East Midlands,298,18
+"2020-05-12",region,E12000004,East Midlands,322,36
+"2020-05-11",region,E12000004,East Midlands,306,33
+"2020-05-10",region,E12000004,East Midlands,198,28
+"2020-05-09",region,E12000004,East Midlands,176,40
+"2020-05-08",region,E12000004,East Midlands,269,33
+"2020-05-07",region,E12000004,East Midlands,313,33
+"2020-05-06",region,E12000004,East Midlands,334,35
+"2020-05-05",region,E12000004,East Midlands,284,41
+"2020-05-04",region,E12000004,East Midlands,236,47
+"2020-05-03",region,E12000004,East Midlands,171,40
+"2020-05-02",region,E12000004,East Midlands,199,37
+"2020-05-01",region,E12000004,East Midlands,294,41
+"2020-04-30",region,E12000004,East Midlands,295,43
+"2020-04-29",region,E12000004,East Midlands,378,54
+"2020-04-28",region,E12000004,East Midlands,272,46
+"2020-04-27",region,E12000004,East Midlands,319,46
+"2020-04-26",region,E12000004,East Midlands,242,50
+"2020-04-25",region,E12000004,East Midlands,246,45
+"2020-04-24",region,E12000004,East Midlands,298,43
+"2020-04-23",region,E12000004,East Midlands,272,53
+"2020-04-22",region,E12000004,East Midlands,334,41
+"2020-04-21",region,E12000004,East Midlands,221,38
+"2020-04-20",region,E12000004,East Midlands,187,64
+"2020-04-19",region,E12000004,East Midlands,247,51
+"2020-04-18",region,E12000004,East Midlands,195,51
+"2020-04-17",region,E12000004,East Midlands,257,61
+"2020-04-16",region,E12000004,East Midlands,267,32
+"2020-04-15",region,E12000004,East Midlands,217,65
+"2020-04-14",region,E12000004,East Midlands,210,60
+"2020-04-13",region,E12000004,East Midlands,171,48
+"2020-04-12",region,E12000004,East Midlands,215,57
+"2020-04-11",region,E12000004,East Midlands,174,63
+"2020-04-10",region,E12000004,East Midlands,172,57
+"2020-04-09",region,E12000004,East Midlands,233,65
+"2020-04-08",region,E12000004,East Midlands,187,66
+"2020-04-07",region,E12000004,East Midlands,228,48
+"2020-04-06",region,E12000004,East Midlands,212,67
+"2020-04-05",region,E12000004,East Midlands,149,61
+"2020-04-04",region,E12000004,East Midlands,189,52
+"2020-04-03",region,E12000004,East Midlands,259,53
+"2020-04-02",region,E12000004,East Midlands,213,44
+"2020-04-01",region,E12000004,East Midlands,295,45
+"2020-03-31",region,E12000004,East Midlands,277,36
+"2020-03-30",region,E12000004,East Midlands,206,25
+"2020-03-29",region,E12000004,East Midlands,129,25
+"2020-03-28",region,E12000004,East Midlands,158,23
+"2020-03-27",region,E12000004,East Midlands,137,21
+"2020-03-26",region,E12000004,East Midlands,155,18
+"2020-03-25",region,E12000004,East Midlands,116,12
+"2020-03-24",region,E12000004,East Midlands,135,14
+"2020-03-23",region,E12000004,East Midlands,117,11
+"2020-03-22",region,E12000004,East Midlands,99,14
+"2020-03-21",region,E12000004,East Midlands,69,2
+"2020-03-20",region,E12000004,East Midlands,53,4
+"2020-03-19",region,E12000004,East Midlands,66,1
+"2020-03-18",region,E12000004,East Midlands,48,3
+"2020-03-17",region,E12000004,East Midlands,33,0
+"2020-03-16",region,E12000004,East Midlands,34,4
+"2020-03-15",region,E12000004,East Midlands,26,0
+"2020-03-14",region,E12000004,East Midlands,19,1
+"2020-03-13",region,E12000004,East Midlands,22,1
+"2020-03-12",region,E12000004,East Midlands,17,1
+"2020-03-11",region,E12000004,East Midlands,25,0
+"2020-03-10",region,E12000004,East Midlands,12,0
+"2020-03-09",region,E12000004,East Midlands,10,0
+"2020-03-08",region,E12000004,East Midlands,1,0
+"2020-03-07",region,E12000004,East Midlands,5,0
+"2020-03-06",region,E12000004,East Midlands,7,0
+"2020-03-05",region,E12000004,East Midlands,3,0
+"2020-03-04",region,E12000004,East Midlands,2,0
+"2020-03-03",region,E12000004,East Midlands,7,1
+"2020-03-02",region,E12000004,East Midlands,2,
+"2020-03-01",region,E12000004,East Midlands,1,
+"2020-02-29",region,E12000004,East Midlands,1,
+"2020-02-28",region,E12000004,East Midlands,1,
+"2020-02-27",region,E12000004,East Midlands,0,
+"2020-02-26",region,E12000004,East Midlands,0,
+"2020-02-25",region,E12000004,East Midlands,1,
+"2020-02-24",region,E12000004,East Midlands,0,
+"2020-02-23",region,E12000004,East Midlands,0,
+"2020-02-22",region,E12000004,East Midlands,0,
+"2020-02-21",region,E12000004,East Midlands,1,
+"2021-01-17",region,E12000005,West Midlands,328,18
+"2021-01-16",region,E12000005,West Midlands,3082,58
+"2021-01-15",region,E12000005,West Midlands,4643,77
+"2021-01-14",region,E12000005,West Midlands,4876,100
+"2021-01-13",region,E12000005,West Midlands,5151,89
+"2021-01-12",region,E12000005,West Midlands,5389,114
+"2021-01-11",region,E12000005,West Midlands,5817,122
+"2021-01-10",region,E12000005,West Midlands,3781,105
+"2021-01-09",region,E12000005,West Midlands,3949,109
+"2021-01-08",region,E12000005,West Midlands,4603,101
+"2021-01-07",region,E12000005,West Midlands,4755,105
+"2021-01-06",region,E12000005,West Midlands,5572,84
+"2021-01-05",region,E12000005,West Midlands,5860,94
+"2021-01-04",region,E12000005,West Midlands,7145,98
+"2021-01-03",region,E12000005,West Midlands,4856,63
+"2021-01-02",region,E12000005,West Midlands,5648,75
+"2021-01-01",region,E12000005,West Midlands,3002,74
+"2020-12-31",region,E12000005,West Midlands,4572,70
+"2020-12-30",region,E12000005,West Midlands,5884,91
+"2020-12-29",region,E12000005,West Midlands,6088,65
+"2020-12-28",region,E12000005,West Midlands,3133,61
+"2020-12-27",region,E12000005,West Midlands,3153,75
+"2020-12-26",region,E12000005,West Midlands,2595,76
+"2020-12-25",region,E12000005,West Midlands,1009,66
+"2020-12-24",region,E12000005,West Midlands,2112,71
+"2020-12-23",region,E12000005,West Midlands,2720,63
+"2020-12-22",region,E12000005,West Midlands,2807,69
+"2020-12-21",region,E12000005,West Midlands,2977,67
+"2020-12-20",region,E12000005,West Midlands,2213,53
+"2020-12-19",region,E12000005,West Midlands,1607,59
+"2020-12-18",region,E12000005,West Midlands,2074,74
+"2020-12-17",region,E12000005,West Midlands,2121,71
+"2020-12-16",region,E12000005,West Midlands,2068,63
+"2020-12-15",region,E12000005,West Midlands,2237,60
+"2020-12-14",region,E12000005,West Midlands,2384,64
+"2020-12-13",region,E12000005,West Midlands,1322,68
+"2020-12-12",region,E12000005,West Midlands,1339,71
+"2020-12-11",region,E12000005,West Midlands,1748,60
+"2020-12-10",region,E12000005,West Midlands,1673,63
+"2020-12-09",region,E12000005,West Midlands,1653,59
+"2020-12-08",region,E12000005,West Midlands,1718,71
+"2020-12-07",region,E12000005,West Midlands,1733,58
+"2020-12-06",region,E12000005,West Midlands,1130,64
+"2020-12-05",region,E12000005,West Midlands,1105,60
+"2020-12-04",region,E12000005,West Midlands,1392,74
+"2020-12-03",region,E12000005,West Midlands,1347,65
+"2020-12-02",region,E12000005,West Midlands,1473,50
+"2020-12-01",region,E12000005,West Midlands,1529,57
+"2020-11-30",region,E12000005,West Midlands,1699,73
+"2020-11-29",region,E12000005,West Midlands,1120,90
+"2020-11-28",region,E12000005,West Midlands,1135,61
+"2020-11-27",region,E12000005,West Midlands,1561,57
+"2020-11-26",region,E12000005,West Midlands,1696,73
+"2020-11-25",region,E12000005,West Midlands,1912,56
+"2020-11-24",region,E12000005,West Midlands,2022,57
+"2020-11-23",region,E12000005,West Midlands,2241,70
+"2020-11-22",region,E12000005,West Midlands,1473,66
+"2020-11-21",region,E12000005,West Midlands,1589,64
+"2020-11-20",region,E12000005,West Midlands,2303,68
+"2020-11-19",region,E12000005,West Midlands,2370,63
+"2020-11-18",region,E12000005,West Midlands,2609,65
+"2020-11-17",region,E12000005,West Midlands,3031,59
+"2020-11-16",region,E12000005,West Midlands,3387,55
+"2020-11-15",region,E12000005,West Midlands,2026,59
+"2020-11-14",region,E12000005,West Midlands,2361,48
+"2020-11-13",region,E12000005,West Midlands,3044,42
+"2020-11-12",region,E12000005,West Midlands,3099,49
+"2020-11-11",region,E12000005,West Midlands,3536,54
+"2020-11-10",region,E12000005,West Midlands,3644,47
+"2020-11-09",region,E12000005,West Midlands,3931,44
+"2020-11-08",region,E12000005,West Midlands,2449,45
+"2020-11-07",region,E12000005,West Midlands,2269,47
+"2020-11-06",region,E12000005,West Midlands,2795,42
+"2020-11-05",region,E12000005,West Midlands,2832,46
+"2020-11-04",region,E12000005,West Midlands,2742,44
+"2020-11-03",region,E12000005,West Midlands,3104,34
+"2020-11-02",region,E12000005,West Midlands,3644,42
+"2020-11-01",region,E12000005,West Midlands,1614,33
+"2020-10-31",region,E12000005,West Midlands,1942,36
+"2020-10-30",region,E12000005,West Midlands,2592,37
+"2020-10-29",region,E12000005,West Midlands,2491,33
+"2020-10-28",region,E12000005,West Midlands,2540,19
+"2020-10-27",region,E12000005,West Midlands,2427,29
+"2020-10-26",region,E12000005,West Midlands,2635,32
+"2020-10-25",region,E12000005,West Midlands,1585,20
+"2020-10-24",region,E12000005,West Midlands,1545,11
+"2020-10-23",region,E12000005,West Midlands,2035,25
+"2020-10-22",region,E12000005,West Midlands,2113,24
+"2020-10-21",region,E12000005,West Midlands,2229,19
+"2020-10-20",region,E12000005,West Midlands,2274,22
+"2020-10-19",region,E12000005,West Midlands,2203,17
+"2020-10-18",region,E12000005,West Midlands,1188,11
+"2020-10-17",region,E12000005,West Midlands,1233,22
+"2020-10-16",region,E12000005,West Midlands,1618,17
+"2020-10-15",region,E12000005,West Midlands,1584,15
+"2020-10-14",region,E12000005,West Midlands,1570,15
+"2020-10-13",region,E12000005,West Midlands,1490,16
+"2020-10-12",region,E12000005,West Midlands,1498,7
+"2020-10-11",region,E12000005,West Midlands,916,20
+"2020-10-10",region,E12000005,West Midlands,922,6
+"2020-10-09",region,E12000005,West Midlands,1189,5
+"2020-10-08",region,E12000005,West Midlands,1266,20
+"2020-10-07",region,E12000005,West Midlands,1217,9
+"2020-10-06",region,E12000005,West Midlands,1216,11
+"2020-10-05",region,E12000005,West Midlands,1156,12
+"2020-10-04",region,E12000005,West Midlands,684,10
+"2020-10-03",region,E12000005,West Midlands,743,14
+"2020-10-02",region,E12000005,West Midlands,940,9
+"2020-10-01",region,E12000005,West Midlands,886,15
+"2020-09-30",region,E12000005,West Midlands,936,10
+"2020-09-29",region,E12000005,West Midlands,755,6
+"2020-09-28",region,E12000005,West Midlands,696,9
+"2020-09-27",region,E12000005,West Midlands,496,11
+"2020-09-26",region,E12000005,West Midlands,565,10
+"2020-09-25",region,E12000005,West Midlands,600,10
+"2020-09-24",region,E12000005,West Midlands,688,12
+"2020-09-23",region,E12000005,West Midlands,685,17
+"2020-09-22",region,E12000005,West Midlands,610,10
+"2020-09-21",region,E12000005,West Midlands,647,8
+"2020-09-20",region,E12000005,West Midlands,598,14
+"2020-09-19",region,E12000005,West Midlands,579,7
+"2020-09-18",region,E12000005,West Midlands,581,7
+"2020-09-17",region,E12000005,West Midlands,507,4
+"2020-09-16",region,E12000005,West Midlands,457,11
+"2020-09-15",region,E12000005,West Midlands,361,4
+"2020-09-14",region,E12000005,West Midlands,324,12
+"2020-09-13",region,E12000005,West Midlands,218,13
+"2020-09-12",region,E12000005,West Midlands,291,2
+"2020-09-11",region,E12000005,West Midlands,359,5
+"2020-09-10",region,E12000005,West Midlands,385,2
+"2020-09-09",region,E12000005,West Midlands,386,4
+"2020-09-08",region,E12000005,West Midlands,430,9
+"2020-09-07",region,E12000005,West Midlands,486,5
+"2020-09-06",region,E12000005,West Midlands,320,5
+"2020-09-05",region,E12000005,West Midlands,307,9
+"2020-09-04",region,E12000005,West Midlands,435,7
+"2020-09-03",region,E12000005,West Midlands,364,6
+"2020-09-02",region,E12000005,West Midlands,346,3
+"2020-09-01",region,E12000005,West Midlands,255,7
+"2020-08-31",region,E12000005,West Midlands,127,7
+"2020-08-30",region,E12000005,West Midlands,94,4
+"2020-08-29",region,E12000005,West Midlands,111,6
+"2020-08-28",region,E12000005,West Midlands,153,2
+"2020-08-27",region,E12000005,West Midlands,143,3
+"2020-08-26",region,E12000005,West Midlands,125,15
+"2020-08-25",region,E12000005,West Midlands,142,11
+"2020-08-24",region,E12000005,West Midlands,137,7
+"2020-08-23",region,E12000005,West Midlands,82,4
+"2020-08-22",region,E12000005,West Midlands,76,3
+"2020-08-21",region,E12000005,West Midlands,103,0
+"2020-08-20",region,E12000005,West Midlands,163,5
+"2020-08-19",region,E12000005,West Midlands,118,5
+"2020-08-18",region,E12000005,West Midlands,110,3
+"2020-08-17",region,E12000005,West Midlands,138,7
+"2020-08-16",region,E12000005,West Midlands,73,7
+"2020-08-15",region,E12000005,West Midlands,96,7
+"2020-08-14",region,E12000005,West Midlands,171,6
+"2020-08-13",region,E12000005,West Midlands,117,12
+"2020-08-12",region,E12000005,West Midlands,133,7
+"2020-08-11",region,E12000005,West Midlands,163,15
+"2020-08-10",region,E12000005,West Midlands,157,3
+"2020-08-09",region,E12000005,West Midlands,77,2
+"2020-08-08",region,E12000005,West Midlands,74,5
+"2020-08-07",region,E12000005,West Midlands,105,15
+"2020-08-06",region,E12000005,West Midlands,113,8
+"2020-08-05",region,E12000005,West Midlands,94,5
+"2020-08-04",region,E12000005,West Midlands,98,5
+"2020-08-03",region,E12000005,West Midlands,88,2
+"2020-08-02",region,E12000005,West Midlands,42,5
+"2020-08-01",region,E12000005,West Midlands,54,0
+"2020-07-31",region,E12000005,West Midlands,81,4
+"2020-07-30",region,E12000005,West Midlands,80,7
+"2020-07-29",region,E12000005,West Midlands,90,8
+"2020-07-28",region,E12000005,West Midlands,89,4
+"2020-07-27",region,E12000005,West Midlands,77,12
+"2020-07-26",region,E12000005,West Midlands,66,12
+"2020-07-25",region,E12000005,West Midlands,67,9
+"2020-07-24",region,E12000005,West Midlands,79,1
+"2020-07-23",region,E12000005,West Midlands,89,7
+"2020-07-22",region,E12000005,West Midlands,78,12
+"2020-07-21",region,E12000005,West Midlands,80,8
+"2020-07-20",region,E12000005,West Midlands,83,3
+"2020-07-19",region,E12000005,West Midlands,40,6
+"2020-07-18",region,E12000005,West Midlands,51,7
+"2020-07-17",region,E12000005,West Midlands,68,7
+"2020-07-16",region,E12000005,West Midlands,65,4
+"2020-07-15",region,E12000005,West Midlands,108,8
+"2020-07-14",region,E12000005,West Midlands,71,7
+"2020-07-13",region,E12000005,West Midlands,78,6
+"2020-07-12",region,E12000005,West Midlands,38,8
+"2020-07-11",region,E12000005,West Midlands,40,6
+"2020-07-10",region,E12000005,West Midlands,43,5
+"2020-07-09",region,E12000005,West Midlands,122,17
+"2020-07-08",region,E12000005,West Midlands,65,6
+"2020-07-07",region,E12000005,West Midlands,60,7
+"2020-07-06",region,E12000005,West Midlands,53,8
+"2020-07-05",region,E12000005,West Midlands,36,8
+"2020-07-04",region,E12000005,West Midlands,23,12
+"2020-07-03",region,E12000005,West Midlands,41,14
+"2020-07-02",region,E12000005,West Midlands,54,13
+"2020-07-01",region,E12000005,West Midlands,50,9
+"2020-06-30",region,E12000005,West Midlands,51,11
+"2020-06-29",region,E12000005,West Midlands,56,9
+"2020-06-28",region,E12000005,West Midlands,26,11
+"2020-06-27",region,E12000005,West Midlands,44,13
+"2020-06-26",region,E12000005,West Midlands,69,10
+"2020-06-25",region,E12000005,West Midlands,56,18
+"2020-06-24",region,E12000005,West Midlands,53,9
+"2020-06-23",region,E12000005,West Midlands,52,25
+"2020-06-22",region,E12000005,West Midlands,67,16
+"2020-06-21",region,E12000005,West Midlands,38,11
+"2020-06-20",region,E12000005,West Midlands,48,11
+"2020-06-19",region,E12000005,West Midlands,52,12
+"2020-06-18",region,E12000005,West Midlands,83,16
+"2020-06-17",region,E12000005,West Midlands,80,12
+"2020-06-16",region,E12000005,West Midlands,106,14
+"2020-06-15",region,E12000005,West Midlands,103,19
+"2020-06-14",region,E12000005,West Midlands,75,21
+"2020-06-13",region,E12000005,West Midlands,86,11
+"2020-06-12",region,E12000005,West Midlands,79,14
+"2020-06-11",region,E12000005,West Midlands,92,9
+"2020-06-10",region,E12000005,West Midlands,92,11
+"2020-06-09",region,E12000005,West Midlands,101,19
+"2020-06-08",region,E12000005,West Midlands,119,20
+"2020-06-07",region,E12000005,West Midlands,64,15
+"2020-06-06",region,E12000005,West Midlands,78,20
+"2020-06-05",region,E12000005,West Midlands,102,24
+"2020-06-04",region,E12000005,West Midlands,137,16
+"2020-06-03",region,E12000005,West Midlands,124,16
+"2020-06-02",region,E12000005,West Midlands,124,27
+"2020-06-01",region,E12000005,West Midlands,125,18
+"2020-05-31",region,E12000005,West Midlands,78,28
+"2020-05-30",region,E12000005,West Midlands,115,16
+"2020-05-29",region,E12000005,West Midlands,156,23
+"2020-05-28",region,E12000005,West Midlands,155,24
+"2020-05-27",region,E12000005,West Midlands,194,28
+"2020-05-26",region,E12000005,West Midlands,152,36
+"2020-05-25",region,E12000005,West Midlands,138,25
+"2020-05-24",region,E12000005,West Midlands,135,18
+"2020-05-23",region,E12000005,West Midlands,148,26
+"2020-05-22",region,E12000005,West Midlands,196,29
+"2020-05-21",region,E12000005,West Midlands,225,32
+"2020-05-20",region,E12000005,West Midlands,254,29
+"2020-05-19",region,E12000005,West Midlands,279,32
+"2020-05-18",region,E12000005,West Midlands,208,43
+"2020-05-17",region,E12000005,West Midlands,172,39
+"2020-05-16",region,E12000005,West Midlands,175,44
+"2020-05-15",region,E12000005,West Midlands,265,40
+"2020-05-14",region,E12000005,West Midlands,257,40
+"2020-05-13",region,E12000005,West Midlands,244,47
+"2020-05-12",region,E12000005,West Midlands,309,36
+"2020-05-11",region,E12000005,West Midlands,250,35
+"2020-05-10",region,E12000005,West Midlands,218,43
+"2020-05-09",region,E12000005,West Midlands,163,40
+"2020-05-08",region,E12000005,West Midlands,341,44
+"2020-05-07",region,E12000005,West Midlands,368,47
+"2020-05-06",region,E12000005,West Midlands,314,57
+"2020-05-05",region,E12000005,West Midlands,318,60
+"2020-05-04",region,E12000005,West Midlands,237,55
+"2020-05-03",region,E12000005,West Midlands,299,50
+"2020-05-02",region,E12000005,West Midlands,319,50
+"2020-05-01",region,E12000005,West Midlands,472,70
+"2020-04-30",region,E12000005,West Midlands,451,60
+"2020-04-29",region,E12000005,West Midlands,441,62
+"2020-04-28",region,E12000005,West Midlands,376,54
+"2020-04-27",region,E12000005,West Midlands,418,69
+"2020-04-26",region,E12000005,West Midlands,316,81
+"2020-04-25",region,E12000005,West Midlands,386,76
+"2020-04-24",region,E12000005,West Midlands,482,69
+"2020-04-23",region,E12000005,West Midlands,551,85
+"2020-04-22",region,E12000005,West Midlands,578,68
+"2020-04-21",region,E12000005,West Midlands,493,80
+"2020-04-20",region,E12000005,West Midlands,403,77
+"2020-04-19",region,E12000005,West Midlands,340,78
+"2020-04-18",region,E12000005,West Midlands,549,97
+"2020-04-17",region,E12000005,West Midlands,446,100
+"2020-04-16",region,E12000005,West Midlands,511,89
+"2020-04-15",region,E12000005,West Midlands,387,108
+"2020-04-14",region,E12000005,West Midlands,322,84
+"2020-04-13",region,E12000005,West Midlands,280,96
+"2020-04-12",region,E12000005,West Midlands,238,106
+"2020-04-11",region,E12000005,West Midlands,252,110
+"2020-04-10",region,E12000005,West Midlands,362,104
+"2020-04-09",region,E12000005,West Midlands,345,97
+"2020-04-08",region,E12000005,West Midlands,361,135
+"2020-04-07",region,E12000005,West Midlands,383,101
+"2020-04-06",region,E12000005,West Midlands,360,101
+"2020-04-05",region,E12000005,West Midlands,290,117
+"2020-04-04",region,E12000005,West Midlands,345,108
+"2020-04-03",region,E12000005,West Midlands,372,86
+"2020-04-02",region,E12000005,West Midlands,449,119
+"2020-04-01",region,E12000005,West Midlands,409,108
+"2020-03-31",region,E12000005,West Midlands,414,92
+"2020-03-30",region,E12000005,West Midlands,431,75
+"2020-03-29",region,E12000005,West Midlands,366,71
+"2020-03-28",region,E12000005,West Midlands,323,71
+"2020-03-27",region,E12000005,West Midlands,279,54
+"2020-03-26",region,E12000005,West Midlands,314,51
+"2020-03-25",region,E12000005,West Midlands,240,39
+"2020-03-24",region,E12000005,West Midlands,250,25
+"2020-03-23",region,E12000005,West Midlands,239,27
+"2020-03-22",region,E12000005,West Midlands,112,20
+"2020-03-21",region,E12000005,West Midlands,125,15
+"2020-03-20",region,E12000005,West Midlands,151,19
+"2020-03-19",region,E12000005,West Midlands,123,11
+"2020-03-18",region,E12000005,West Midlands,99,9
+"2020-03-17",region,E12000005,West Midlands,69,9
+"2020-03-16",region,E12000005,West Midlands,56,9
+"2020-03-15",region,E12000005,West Midlands,44,4
+"2020-03-14",region,E12000005,West Midlands,31,3
+"2020-03-13",region,E12000005,West Midlands,40,3
+"2020-03-12",region,E12000005,West Midlands,47,4
+"2020-03-11",region,E12000005,West Midlands,29,1
+"2020-03-10",region,E12000005,West Midlands,17,1
+"2020-03-09",region,E12000005,West Midlands,8,0
+"2020-03-08",region,E12000005,West Midlands,4,1
+"2020-03-07",region,E12000005,West Midlands,6,
+"2020-03-06",region,E12000005,West Midlands,2,
+"2020-03-05",region,E12000005,West Midlands,6,
+"2020-03-04",region,E12000005,West Midlands,3,
+"2020-03-03",region,E12000005,West Midlands,1,
+"2020-03-02",region,E12000005,West Midlands,4,
+"2020-03-01",region,E12000005,West Midlands,2,
